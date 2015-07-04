@@ -9,7 +9,7 @@ subtitle: 'Documentation for your building pleasure'
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/BrianGenisio/codemash-nodebots-docs'
+codeurl: 'https://github.com/NodeBotsDayA2/nodebots-annarbor-docs'
 
 # Default categories (in order) to appear in the navigation
 sections: [
