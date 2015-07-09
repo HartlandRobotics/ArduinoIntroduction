@@ -4,15 +4,12 @@ This is an inventory we used for the CodeMash 2015 event.  We had about 170 peop
 ## Components
 Component Name | Count
 ---------------|---------------:
-Continuous Servos | 16
-Standard Servos | 3
-Mini Servos | 4
-Servo Horns | 10
-Pew Pew Laser | 1
-6V DC motors | 3
-Brushless motors | 2
-Brushless speed controller | 1
-Propellors | 4
+Continuous Servos | 18
+Standard Servos | 1
+Mini Servos | 20
+Servo Horns | 10*
+Pew Pew Laser | 2
+6V DC motors | 2
 Airplane wheels | 2
 Tail wheel assembly | 1
 Gearbox | 1
