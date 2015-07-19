@@ -8,7 +8,7 @@ order: 0
 
 Our competition event for International NodeBots Day in Ann Arbor will be "Battle Bots", also known as "Sumo Bots".  Battle bots will compete in head-to-head battles, much like a wrestling or sumo match.  The aim is for one bot to push the opponents bot out of the arena.
 
-<iframe src="https://docs.google.com/presentation/d/1E78GH9epBRUq0gZqgUHLucQWxyw9m3sY91pWXD6_wlA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1E78GH9epBRUq0gZqgUHLucQWxyw9m3sY91pWXD6_wlA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Here are the rules**
 
