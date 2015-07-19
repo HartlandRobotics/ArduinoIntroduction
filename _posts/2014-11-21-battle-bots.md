@@ -12,7 +12,7 @@ Our competition event for International NodeBots Day in Ann Arbor will be "Battl
 
 **Here are the rules**
 
-0. Build your bot however you want, but use the two continuous servos as your primary drive mechanism.
+0. Build your bot however you want except you must use the two continuous servos as your primary drive mechanism & the bot cannot have propellers.
 0. The arena is an octagon, 1 meter wide, on carpet.
 0. You have one minute to knock your opponent completely out of the arena.  This is considered a KO.
 0. If after one minute, a KO is not achieved, the bot with their Arduino closest to the center dot wins.
