@@ -57,6 +57,8 @@ Affix the Arduino using double-stick tape.  Affix the breadboard using the attac
 ### Mount the battery
 Using double-stick tape, affix the battery to the bot.  Connect it to the Arduino using the 9v clip.  You may also find it useful to lay the battery on its side between the servos.
 
+*Make sure your Arduino is switched to 5 Volts (not 3.3 Volts).  The switch is between the USB port and the power input.*
+
 ![Affix the battery](/assets/nodebot-assemble/nodebot-attach-battery.JPG)
 
 ### Power the servos from the board
