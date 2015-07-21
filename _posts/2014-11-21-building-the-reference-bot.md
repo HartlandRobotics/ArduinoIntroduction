@@ -32,14 +32,14 @@ You want to get a feel for where everything will go.  Lay your major components 
 ![Rough-out the parts](/assets/nodebot-assemble/nodebot-rough-out.JPG)
 
 ### Attach your wheels to your servos
-Attach a servo horn (from those provided with the servo) to each of the wheels using the self-drilling screws.  The holes in the servo horn are smaller than the screws but these screws make quick work of the plastic and go right through to the wood (just make sure the servo horn is centered on your wheel). 
+Attach a servo horn (from those provided with the servo) to each of the wheels using the self-drilling screws.  The holes in the servo horn are smaller than the screws but these screws make quick work of the plastic and go right through to the wood (just make sure the servo horn is centered on your wheel).
 
 Once the horns are attached to the wheels, attach each wheel to a servo using the small black screws provided.
 
 ![Attach the wheels to the servo horns](/assets/nodebot-assemble/nodebot-attach-wheels-to-servo.JPG)
 
 ### Attach the servos to your chassis
-Use two of the zip-ties to attach your servos to your chassis.  After they are tight, trim any excess.
+Use two of the zip-ties to attach your servos to your chassis.  After they are tight, trim any excess.  Pro Tip: Put the servos on the opposite side of the Nodebots Day etching so they don't cover it up.
 
 ![Mark your servo location](/assets/nodebot-assemble/nodebot-mark-servo-location.JPG)
 ![Attach the servos with zip-ties](/assets/nodebot-assemble/nodebot-attach-servos.JPG)
