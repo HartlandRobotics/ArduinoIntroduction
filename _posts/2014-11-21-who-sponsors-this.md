@@ -17,11 +17,10 @@ If a culture like this sounds interesting to you, we encourage you to talk to us
 
 ![Quantum Signal logo]({{ site.baseurl }}/assets/QuantumSignalLogo.png)
 
-[Quantum Signal](http://quantumsignal.com/) has worked with clients ranging from single-person companies to the multinational conglomerates and governments, and succeeded on each and every project we have executed. We never worry whether or not potential customers contact those for which we've worked with in the past, because they are usually our best salespeople! Our organization has an advertising budget of (essentially) zero - our customers and technology speak for themselves, and we're growing fast!
+[Quantum Signal](http://quantumsignal.com/) is an advanced engineering research and product development firm, with special expertise and experience in mobile robotics, perception systems, and real-time modeling and simulation.  We design and build intelligent systems and solutions that incorporate algorithms, hardware, and software to meet the unique requirements of our customers.  QS has built systems for organizations like the US Army, Sony, US Secret Service, Ford Motor, Raytheon, Amway, Harris, and many more, and our solutions are used all over the world in laboratories, shopping malls, police stations, and in homes.  We’re always happy to take on new challenges, and are also always looking to add to our growing team in Saline, Michigan!
 
-![Menlo Innovations logo]({{ site.baseurl }}/assets/MenloLogo.jpg)
+![Menlo Innovations logo]({{ site.baseurl }}/assets/MenloLogo.png)
 
-[Menlo Innovations](http://menloinnovations.com/) Menlo Innovations' clients hire them to design and build custom software.
+At [Menlo Innovations](http://menloinnovations.com/) we design & build software that’s widely adopted by target users, produces better business results, and is a competitive advantage for our clients. Our team consists of a core of 20 full-time employees and 15-30 independent consultants working together in our Ann Arbor, Michigan Software Factory™. 
 
-Their CEO, Richard Sheridan, elaborates on this by describing:
-"We are like a custom homebuilder. If you have the house of your dreams in mind, you would want to find an architectural firm, a design firm, and a build firm to bring it to life." We do the same thing for software.
+In addition to helping develop world class software solutions, members of our team are recognized as leaders in their field and have been invited to speak at Universities, professional organizations, local and national conferences, and at global congresses for the Project Management Institute in both Panama and Mexico. 
