@@ -1,8 +1,6 @@
-# Welcome to the CodeMash NodeBots documentation
+# Welcome to the Ann Arbor International NodeBots Day documentation
 
 There are several things here that are useful for creating a successful event.
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BrianGenisio/codemash-nodebots-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Examples
 First, install the dependencies, then run the examples:
@@ -17,12 +15,12 @@ node examples.strobe.js
 - Some notes about running the event can be found in [notes.md](./notes.md)
 - The parts list for the bot kit can be found in [bot-kit.md](./bot-kit.md)
 
-## Video from the event
+## Video from CodeMash 2.0.1.5
 - [The final battle from the winners of both days](https://www.youtube.com/watch?v=H9AzpnXpcrU)
 - [What the room looked like](http://youtu.be/QhRXkk_Q6J4)
 - [A bunch of Vines](https://vine.co/u/1110257304294825984)
 
-## Photos from the event
+## Photos from CodeMash 2.0.1.5
 - [Some great photos](http://photos.zaggstudios.com/?q=NodeBots)
 - [The winning line racer](https://twitter.com/kneumei/status/552574852473696256/photo/1)
 - [Battle Royale](https://twitter.com/johncrider/status/553369756250562560/photo/1)
