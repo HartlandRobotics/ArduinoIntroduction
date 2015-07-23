@@ -13,6 +13,8 @@ Don’t feel like competing? We’ll have all sorts of platforms, boards, compon
 
 **All participants will be required to [sign a waiver]({{ site.baseurl }}/assets/Nodebots Ann Arbor Waiver.pdf)**
 
+[Original Eventbrite Site](https://www.eventbrite.com/e/international-nodebots-day-ann-arbor-tickets-17186577516)
+
 <!--
 For more photos and musings, follow us on twitter! <a href="http://twitter.com/nodebots_cm"><i class="fa fa-twitter-square fa-2x"></i> @nodebots_cm</a>
 
