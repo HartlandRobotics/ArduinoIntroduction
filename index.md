@@ -12,7 +12,9 @@ Armed with an Arduino, MacGyver-like circuitry, cheap wood, and JavaScript, can 
 
 Don’t feel like competing? We’ll have all sorts of platforms, boards, components, supplies, etc for hacking robots however you want.
 
-**All participants will be required to [sign a waiver]({{ site.baseurl }}/assets/Nodebots Ann Arbor Waiver.pdf)**
+**All participants will be required to [sign a liability waiver]({{ site.baseurl }}/assets/Nodebots Ann Arbor Waiver.pdf)**
+
+We will also be taking photos for the event, so we have a [photo release form]({{site.baseurl}}/assets/PhotographandPublicityConsentReleaseForm.pdf)
 
 [Original Eventbrite Site](https://www.eventbrite.com/e/international-nodebots-day-ann-arbor-tickets-17186577516)
 
