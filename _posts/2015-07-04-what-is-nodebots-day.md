@@ -11,6 +11,8 @@ order: 0
 
 [International NodeBots Day](http://nodebotsday.com) is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
+<script src="https://embed.github.com/view/geojson/nodebots/nodebotsday/master/events.geojson"></script>
+
 Follow [@nodebotsday](http://twitter.com/nodebotsday) for more info.
 
 International NodeBots Day 2015 is on July 25. 
