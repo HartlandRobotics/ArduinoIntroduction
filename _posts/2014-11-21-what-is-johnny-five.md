@@ -9,6 +9,8 @@ order: 1
 
 <img class="logo intro-logo" src="{{ site.baseurl }}/assets/sgier-johnny-five.png" />
 
+<iframe src="https://docs.google.com/presentation/d/1SnavzePbk0a1WXTzFJJ2LqEFsRY2MNojH1OYZnnly-4/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Johnny-Five](https://github.com/rwaldron/johnny-five) is a [Node.js](http://nodejs.org) based robotics framework.  It has been compared to jQuery, but for hardware, because it normalizes hardware through a common API and has a similar event-driven interface.
 
 There are several ways to run Johnny-Five, but in the case of the Arduino Uno boards in this lab, **the JavaScript does not run on the board**.  The JavaScript runs on your computer and communicates with the Arduino using [Firmata](http://www.firmata.org/wiki/Main_Page) which is a language-agnostic searial protocol for two-way IO communication.
