@@ -25,3 +25,5 @@ For more photos and musings, follow us on twitter! <a href="http://twitter.com/n
 
 We also have a Chat Room! [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BrianGenisio/codemash-nodebots-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 -->
+
+<iframe src="https://docs.google.com/presentation/d/1VBaBVrciY1ot4WLnjmSjbEVNjI4jxV7n7UmKTE-cMLo/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
