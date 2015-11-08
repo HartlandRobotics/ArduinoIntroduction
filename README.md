@@ -1,4 +1,4 @@
-# Welcome to the Ann Arbor International NodeBots Day documentation
+# Welcome to the NodeBots Unleashed @ CodeMash documentation
 
 There are several things here that are useful for creating a successful event.
 
