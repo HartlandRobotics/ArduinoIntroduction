@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'International NodeBots Day Ann Arbor'
-subtitle: 'Documentation for your building pleasure'
+title: 'NodeBots Unleashed @ CodeMash'
+subtitle: 'How to build a wireless bot for fun and profit'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
