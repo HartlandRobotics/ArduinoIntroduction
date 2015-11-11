@@ -2,14 +2,16 @@
 This is an inventory we used for the CodeMash 2015 event.  We had about 170 people and built 100 robots.
 
 ## Components
-Component Name | Count
----------------|---------------:
+Component Name | Count | Verified by
+---------------|---------------|----------:
+6V DC motors(1:48) | 14 | gjw
+6V DC Motors(1:120) | 19 | gjw
+6V DC Motors(Direct) | 12 |gjw
 Continuous Servos | 18
 Standard Servos | 1
 Mini Servos | 20
 Servo Horns | 10*
 Pew Pew Laser | 2
-6V DC motors | 2
 Airplane wheels | 2
 Tail wheel assembly | 1
 Gearbox | 1
