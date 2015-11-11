@@ -13,7 +13,7 @@ order: 1
 
 [Johnny-Five](https://github.com/rwaldron/johnny-five) is a [Node.js](http://nodejs.org) based robotics framework.  It has been compared to jQuery, but for hardware, because it normalizes hardware through a common API and has a similar event-driven interface.
 
-There are several ways to run Johnny-Five, but in the case of the Arduino Uno boards in this lab, **the JavaScript does not run on the board**.  The JavaScript runs on your computer and communicates with the Arduino using [Firmata](http://www.firmata.org/wiki/Main_Page) which is a language-agnostic searial protocol for two-way IO communication.
+There are several ways to run Johnny-Five, but in the case of the Photon chips in this lab, **the JavaScript does not run on the board**.  The JavaScript runs on your computer and communicates with the Photon using [VoodooSpark](http://voodoospark.me/) which is a network protocol for two-way IO communication, based on the concepts of [Firmata](http://firmata.org).
 
 You may wonder why we are using Johnny-Five and not running native C code on the device?  There is nothing stopping you from doing this, but we believe that Johnny-Five-based development is more interesting.
 

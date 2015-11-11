@@ -1,32 +1,22 @@
 ---
 layout: page
-title: "Battle Bots"
+title: "Flag Bots"
 category: act
 date: 2015-07-19
 order: 0
 ---
 
-Our competition event for International NodeBots Day in Ann Arbor will be "Battle Bots", also known as "Sumo Bots".  Battle bots will compete in head-to-head battles, much like a wrestling or sumo match.  The aim is for one bot to push the opponents bot out of the arena.
-
-<iframe src="https://docs.google.com/presentation/d/1E78GH9epBRUq0gZqgUHLucQWxyw9m3sY91pWXD6_wlA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Our competition event for CodeMash will be "Capture the Flag".  Your bots will compete in head-to-head competition which will test your bot's agility, strength, and defensive abilities.  The goal is for one bot to capture the other bot's "flag" (a colored block) and bring it back to the "home base".
 
 **Here are the rules**
 
-0. Build your bot however you want except you must use the two continuous servos as your primary drive mechanism & the bot cannot have propellers.
-0. The arena is an octagon, 1 meter wide, on carpet.
-0. You have one minute to knock your opponent completely out of the arena.  This is considered a KO.
-0. If after one minute, a KO is not achieved, the bot with their Arduino closest to the center dot wins.
-0. All rules are subject to interpetation by the referees, and all decisions by the referees are final.
+0. If you move your own block from its starting point, you lose.
+0. If a block leaves the course, the last player to touch it loses.
+0. If the opponent puts your block in their home, you lose.
+0. If time expires without a winner, the player with their opponents block closet to their home wins ( measured is linear distance through the course )
 
 You have full access to the maker space.  If you build the reference kit, you are very unlikely to win.  You need to innovate.  What kinds of modifications can you make to give yourself an advantage? What strategies will help you win?
 
-There can be only one true king of the battle bots ring; will it be your bot?
+There can be only one true king on the flag field; will it be your bot?
 
-**Here are some examples of NodeBots battling it out**
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/pmp_hCg6jGQ" frameborder="0" allowfullscreen></iframe>
-
-**And here is an example of an intense battle**
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/OA97THHGgEo" frameborder="0" allowfullscreen></iframe>
 

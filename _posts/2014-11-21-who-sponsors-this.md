@@ -15,14 +15,3 @@ Programming robots?  Sure!  Designing robots requires you to think, design, and 
 
 If a culture like this sounds interesting to you, we encourage you to talk to us and help us: [LetsFixHealthcare.com](http://letsfixhealthcare.com/).
 
-![Menlo Innovations logo]({{ site.baseurl }}/assets/MenloLogo.png)
-
-At [Menlo Innovations](http://menloinnovations.com/) we design & build software that’s widely adopted by target users, produces better business results, and is a competitive advantage for our clients. Our team consists of a core of 20 full-time employees and 15-30 independent consultants working together in our Ann Arbor, Michigan Software Factory™. 
-
-In addition to helping develop world class software solutions, members of our team are recognized as leaders in their field and have been invited to speak at Universities, professional organizations, local and national conferences, and at global congresses for the Project Management Institute in both Panama and Mexico. 
-
-![Quantum Signal logo]({{ site.baseurl }}/assets/QuantumSignalLogo.png)
-
-[Quantum Signal](http://quantumsignal.com/) is an advanced engineering research and product development firm, with special expertise and experience in mobile robotics, perception systems, and real-time modeling and simulation.  We design and build intelligent systems and solutions that incorporate algorithms, hardware, and software to meet the unique requirements of our customers.  QS has built systems for organizations like the US Army, Sony, US Secret Service, Ford Motor, Raytheon, Amway, Harris, and many more, and our solutions are used all over the world in laboratories, shopping malls, police stations, and in homes.  We’re always happy to take on new challenges, and are also always looking to add to our growing team in Saline, Michigan!
-
-
