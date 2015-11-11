@@ -60,15 +60,15 @@ H-Bridge | 5
 Wi-Fi to Serial | 5
 
 ## Electronics
-Component | Count
-----------|------:
+Component | Count | Verified by
+----------|------|--------------:
 Aligator Clips | 10
 Black Wire | 1
 4x Ribbon Wire | 1
 10x Ribbon Wire | 1
 Colored Wire | 6
-M/M Header Pins | 1000
-M/F Header Extenders 8x | 4
+M/M Header Pins-40 | 13 | gjw
+M/F Header Extenders 40 | 7 | gjw
 Assorted resistors | 300
 Diodes | 100
 Transistors 2222 | 50
