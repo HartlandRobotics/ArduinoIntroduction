@@ -1,5 +1,5 @@
 # NodeBots Inventory
-This is an inventory we used for the CodeMash 2015 event.  We had about 170 people and built 100 robots.
+This is an inventory we used for the CodeMash 2016 event.  
 
 ## Components
 Component Name | Count | Verified by
@@ -7,14 +7,14 @@ Component Name | Count | Verified by
 6V DC motors(1:48) | 14 | gjw
 6V DC Motors(1:120) | 19 | gjw
 6V DC Motors(Direct) | 12 |gjw
-Continuous Servos | 18
-Standard Servos | 1
-Mini Servos | 20
-Servo Horns | 10*
-Pew Pew Laser | 2
-Airplane wheels | 2
-Tail wheel assembly | 1
-Gearbox | 1
+Continuous Servos | 19 | gjw
+Standard Servos | 8 | gjw
+Small Servos | 14 | gjw
+Mini Servos | 6 | gjw
+Servo Horns | large bag | gjw
+Airplane wheels | 2 | gjw
+Tail wheel assembly | 20 | gjw
+Gearbox | 1 | gjw
 7 segment displays | 14
 4x 7 segment displays | 6
 8x8 LED matrix | 6
@@ -75,14 +75,17 @@ Transistors 2222 | 50
 Assorted capacitors | 100
 6xAA battery clip | 3
 Extra 9v clips | 7
-10' USB Cable A:B | 100+
+10' USB Cable A:B | 1100+
 Shrink Wrap assorted sizes | 1
 Jumper Wires M/M | 1000
 Jumper Wires F/F | 100
-Large breadboards | 8
-Breadboard shields | 2
-Solder board | 11
-Small breadboards | 6
+Large breadboards | 4 | gjw
+Medium breadboards | 5 | gjw
+Small breadboards | 27 | gjw
+Breadboard shields | 1 | gjw
+Motor control shields | 3 | gjw
+USB wifi module | 1 | gjw
+Perf board | 8 | gjw
 145W Power supply | 1
 Battery charger | 1
 Electrical Tape | 3
@@ -98,14 +101,19 @@ Thing | Count
 ------|------:
 Random wood squares | 100
 Stiff wire (spring) | 1
-Extra Wheels | 10
-Elmers glue | 1
-Electrical tape | 15
-Magnetic tape | 1
-Round magnets | 40
+Extra Wheels | 45
+Wood wheels | 50 | gjw
+Elmers glue | 1 | gjw
+Yarn | 1 | gjw
+LED Lights Assemblies | 16 | gjw
+Electrical tape | 9 | gjw
+Magnetic tape | 2 | gjw
+Round magnets | 47 | gjw
+round Magnets(small) | 30 | gjw
+Round Magnets(Strong) | 10 | gjw
 Velcro | 10'
-Krazy glue | 16
-Staples | 5000
+Krazy glue | 5 | gjw
+Staples | 1500 | gjw
 4" zip ties | 1000
 8" zip ties | 700
 Scrap Wood | 100
@@ -113,10 +121,16 @@ Foam board | 30
 Sandpaper | 12
 Double sided tape | 12
 Orange Wheels | 2
-1 lb rubber bands | 2
+1 lb rubber bands | 1 | gjw
+tiara | 1 gjw
 Clothes Pins | 15
+Weatherseal spool | 1 | gjw
+Soft wire tie(spool green) | 1 | gjw
+Flip flops | 1 pair | gjw
 Clay blocks | 4
-Pushpins | 100
+White Paste Epoxy | 1 | gjw
+Quickset Epoxy | 1 | gjw
+Pushpins | 30 | gjw
 Heavy duty staples | 1000
 Aluminum Flashing | 1
 Pipe cleaners | 100
@@ -135,61 +149,63 @@ Wooden Wheels | 14
 Extra Platforms | 6
 Self Drilling Screws | 200
 Acrylic Sheets | 8
+Binder clips(small) | 9 | gjw
 Random Rubber Things | 15
 
 ## Tools
 Tool | Count
 -----|------:
-Hacksaw | 1
-Hacksaw Blades | 5
-Cable Stipper | 1
+Hacksaw | 1 | gjw
+Hacksaw Blades | 2 | gjw
+Cable Stipper | 1 | gjw
 De-soldering sucktion | 2
-Small clamp | 6
+Small clamp | 8 | gjw
 Extra solder | 2
 Hot glue gun | 2
-Hot glue sticks | 100
-Razor blades | 3
-X-acto blades | 15
+Hot glue sticks | 31 | gjw
+Razor blades | 3 | gjw
+X-acto blades | 20 | gjw
 Double-stick tape pads | 5
-Drill bits 1/16 - 1/4" | 2
-Drill Bits (driver) | 30
+Drill bits 1/16 - 1/4" | 0 gjw
+Drill bits metric | 1/2 | gjw
+Drill Bits (Philips driver) | 6 | gjw
 Dremmel sanders, cutters, grinders | 30
 Tape measurer | 1
 Pressure clamp | 1
+Punches | 5 | gjw
 Screw holding Flat Screwsriver | 1
-Reversable flat/phillips small | 3
+Reversable flat/phillips small | 9 | gjw
 Wire Stripper | 3
 Cutting pliers | 4
 Gripping pliers | 3
 1" Hole Saw | 1
 2.5" Hole Saw | 1
-Small Screwdriver Set x8 | 1
+Small Screwdriver Set x8 | 3 | gjw
 Sanding Block | 1
 Power Drill | 1
 Dremmel | 1
 Soldering Helping Hands | 3
 Random washers, nuts, bolts, & screws | 100
-Multimeter | 3
-Soldering Iron, stand, wick, solder | 3
-Extra Soldering Irons | 3
+Multimeter | 2 | gjw
+Soldering Iron, stand, wick, solder | 3 | gjw
+Extra Soldering Irons | 0 | gjw
 Tweezers | 6
-Safety Goggles | 4
-Scissors | 5
-X-Acto Knife Sets | 2
+Safety Goggles | 1 | gjw
+Scissors | 5 | gjw
+X-Acto Knifes | 3 | gjw
 Rulers | 4
 Acrylic Cutter | 1
-First Aid | 1
-Fire Extingisher | 2
-Phillips Screwdrivers | 35
-Flat Screwdrivers | 30
-Tiny Screwdrivers | 20
+First Aid | 1 | gjw
+Fire Extingisher | 2 | gjw
+Phillips Screwdrivers | 17
+Flat Screwdrivers | 29 | gjw
+Phillips Screwdrivers(Small) | 20 | gjw
+Star Drive Drivers | 2 | gjw
+Brushes | 26 | gjw
 
 ## Power
 Source|Count
 ------|-----:
-8-cell 9.6V 2/3A 1100mAH NiMH | 2
-4-cell 4.8V 600mAH NiCad | 1
-8-cell 9.6V 1700mAH NiCad | 3
 Extra 9v Batteries | 100
 AA Batteries | 100
 
@@ -207,9 +223,10 @@ Baja Car | 1
 ## Extra Boards
 Board | Count
 ------|------:
-Tessel | 1
-Galileo | 1
+Tessel | 1 | gjw
+Galileo | 1 | gjw
 Spark Core | 1
-Beaglebone Black | 1
+Beaglebone Black | 1 | gjw
 Electronic Imp | 1
-Extra Arduino | 10
+Extra Arduino | 8 | gjw
+
