@@ -1,232 +1,232 @@
-# NodeBots Inventory
-This is an inventory we used for the CodeMash 2016 event.  
-
-## Components
-Component Name | Count | Verified by
----------------|---------------|----------:
-6V DC motors(1:48) | 14 | gjw
-6V DC Motors(1:120) | 19 | gjw
-6V DC Motors(Direct) | 12 |gjw
-Continuous Servos | 19 | gjw
-Standard Servos | 8 | gjw
-Small Servos | 14 | gjw
-Mini Servos | 6 | gjw
-Servo Horns | large bag | gjw
-Airplane wheels | 2 | gjw
-Tail wheel assembly | 20 | gjw
-Gearbox | 1 | gjw
-7 segment displays | 14
-4x 7 segment displays | 6
-8x8 LED matrix | 6
-LED Display Driver | 10
-LCD Display | 2
-Red LED | 30
-Blue LED | 30
-Green LED | 30
-RGB LED | 5
-Cop car LED | 1
-Joystick | 2
-Relays | 13
-Level switch | 15
-Assorted push-button switches | 30
-Assorted on/off switches | 12
-RC Receivers | 4
-Piezo buzzers | 12
-Potentiometers | 8
-Proximity sensor | 6
-Flame sensors | 8
-IR Receivers | 8
-IR Remote controllers | 6
-Light sensors | 12
-Reflectance Sensor | 1
-Vibration motors | 2
-Shift registers | 8
-Hall sensor | 1
-Touch sensor | 2
-Water sensor | 1
-Thermistor | 7
-Humidity sensor | 1
-Ping sensors | 20
-Gyro/accel/temp sensors | 3
-Bluetooth to serial | 6
-Barrometric Pressure/temp | 1
-Numeric keypads | 2
-L293D Motor Drive Shield | 6
-Laser Pointers | 6
-RF Module | 2
-Accelerometer | 3
-Gyro/accel/temp sensors | 1
-H-Bridge | 5
-Wi-Fi to Serial | 5
-
-## Electronics
-Component | Count | Verified by
-----------|------|--------------:
-Aligator Clips | 10
-Black Wire | 1
-4x Ribbon Wire | 1
-10x Ribbon Wire | 1
-Colored Wire | 6
-M/M Header Pins-40 | 13 | gjw
-M/F Header Extenders 40 | 7 | gjw
-Assorted resistors | 300
-Diodes | 100
-Transistors 2222 | 50
-Assorted capacitors | 100
-6xAA battery clip | 3
-Extra 9v clips | 7
-10' USB Cable A:B | 1100+
-Shrink Wrap assorted sizes | 1
-Jumper Wires M/M | 1000
-Jumper Wires F/F | 100
-Large breadboards | 4 | gjw
-Medium breadboards | 5 | gjw
-Small breadboards | 27 | gjw
-Breadboard shields | 1 | gjw
-Motor control shields | 3 | gjw
-USB wifi module | 1 | gjw
-Perf board | 8 | gjw
-145W Power supply | 1
-Battery charger | 1
-Electrical Tape | 3
-3V Motor | 10
-Gearmotors + Wheels | 14
-2x Reflectance | 1
-5V regulator | 10
-4xAA Battery Boxes | 10
-Little pill box | 5
-
-## Crafts
-Thing | Count
-------|------:
-Random wood squares | 100
-Stiff wire (spring) | 1
-Extra Wheels | 45
-Wood wheels | 50 | gjw
-Elmers glue | 1 | gjw
-Yarn | 1 | gjw
-LED Lights Assemblies | 16 | gjw
-Electrical tape | 9 | gjw
-Magnetic tape | 2 | gjw
-Round magnets | 47 | gjw
-round Magnets(small) | 30 | gjw
-Round Magnets(Strong) | 10 | gjw
-Velcro | 10'
-Krazy glue | 5 | gjw
-Staples | 1500 | gjw
-4" zip ties | 1000
-8" zip ties | 700
-Scrap Wood | 100
-Foam board | 30
-Sandpaper | 12
-Double sided tape | 12
-Orange Wheels | 2
-1 lb rubber bands | 1 | gjw
-tiara | 1 gjw
-Clothes Pins | 15
-Weatherseal spool | 1 | gjw
-Soft wire tie(spool green) | 1 | gjw
-Flip flops | 1 pair | gjw
-Clay blocks | 4
-White Paste Epoxy | 1 | gjw
-Quickset Epoxy | 1 | gjw
-Pushpins | 30 | gjw
-Heavy duty staples | 1000
-Aluminum Flashing | 1
-Pipe cleaners | 100
-Cutting Mat | 2
-Rubber Cement | 1
-Scotch Tape | 6
-Plasti Dip | 1
-Sharpie | 12
-Wooden Dowel Rods | 120
-Wooden Square Dowel Rods | 160
-Bags of scrap balsa | 10
-Toungue Depressers | 50
-Larger form wood | 12
-Mounting Squares | 140
-Wooden Wheels | 14
-Extra Platforms | 6
-Self Drilling Screws | 200
-Acrylic Sheets | 8
-Binder clips(small) | 9 | gjw
-Random Rubber Things | 15
-
 ## Tools
-Tool | Count
------|------:
-Hacksaw | 1 | gjw
-Hacksaw Blades | 2 | gjw
-Cable Stipper | 1 | gjw
-De-soldering sucktion | 2
-Small clamp | 8 | gjw
-Extra solder | 2
-Hot glue gun | 2
-Hot glue sticks | 31 | gjw
-Razor blades | 3 | gjw
-X-acto blades | 20 | gjw
-Double-stick tape pads | 5
-Drill bits 1/16 - 1/4" | 0 gjw
-Drill bits metric | 1/2 | gjw
-Drill Bits (Philips driver) | 6 | gjw
-Dremmel sanders, cutters, grinders | 30
-Tape measurer | 1
-Pressure clamp | 1
-Punches | 5 | gjw
-Screw holding Flat Screwsriver | 1
-Reversable flat/phillips small | 9 | gjw
-Wire Stripper | 3
-Cutting pliers | 4
-Gripping pliers | 3
-1" Hole Saw | 1
-2.5" Hole Saw | 1
-Small Screwdriver Set x8 | 3 | gjw
-Sanding Block | 1
-Power Drill | 1
-Dremmel | 1
-Soldering Helping Hands | 3
-Random washers, nuts, bolts, & screws | 100
-Multimeter | 2 | gjw
-Soldering Iron, stand, wick, solder | 3 | gjw
-Extra Soldering Irons | 0 | gjw
-Tweezers | 6
-Safety Goggles | 1 | gjw
-Scissors | 5 | gjw
-X-Acto Knifes | 3 | gjw
-Rulers | 4
-Acrylic Cutter | 1
-First Aid | 1 | gjw
-Fire Extingisher | 2 | gjw
-Phillips Screwdrivers | 17
-Flat Screwdrivers | 29 | gjw
-Phillips Screwdrivers(Small) | 20 | gjw
-Star Drive Drivers | 2 | gjw
-Brushes | 26 | gjw
+Item | Count
+---------------|-----------
+1" Hole Saw  | 1
+2.5" Hole Saw  | 1
+Acrylic Cutter  | 1
+Brushes  | 26
+Cable Stipper  | 1
+Cutting pliers  | 4
+De-soldering sucktion  | 2
+Double-stick tape pads  | 1
+Drill Bits (Philips driver)  | 6
+Drill bits 1/16 - 1/4"  | 1
+Drill bits metric  |  1/2 
+Extra solder  | 0
+Extra Soldering Irons  | 4
+Fire Extingisher  | 2
+First Aid  | 1
+Flat Screwdrivers  | 29
+Gripping pliers  | 0
+Hacksaw  | 1
+Hacksaw Blades  | 2
+Heat Gun | 2
+Hot glue gun  | 1
+Hot glue sticks  | 31
+Multimeter  | 3
+Needle nose pliers | 2
+Phillips Screwdrivers  | 17
+Phillips Screwdrivers(Small)  | 20
+Power Drill  | 0
+Pressure clamp  | 0
+Punches  | 5
+Random washers, nuts, bolts, & screws  | 400
+Razor blades  | 3
+Reversable flat/phillips small  | 9
+Rulers  | 0
+Safety Goggles  | 4
+Sanding Block  | 1
+Scissors  | 5
+Screw holding Flat Screwsriver  | 0
+Small clamp  | 8
+Small Screwdriver Set x8  | 3
+Soldering Helping Hands  | 3
+Soldering Iron, stand, wick, solder  | 3
+Star Drive Drivers  | 2
+Tape measurer  | 0
+Tweezers  | 6
+Vise | 1
+Wire Stripper  | 4
+X-acto blades  | 20
+X-Acto Knifes  | 3
+
 
 ## Power
-Source|Count
-------|-----:
-Extra 9v Batteries | 100
-AA Batteries | 100
+Item | Count
+---------------|-----------
+AA Batteries  | 37
+D Cell Batteries | 6
+Extra 9v Batteries  | 9
 
 ## Extra Platforms
-Platform | Count
----------|------:
-Magician's Chassis | 3
-Omnibot | 3
-Tank | 1
-Gear Boxes + wheels | 2
-Pan/tilt platform | 1
-Sumobot Jr | 1
-Baja Car | 1
+Item | Count
+---------------|-----------
+Baja Car  | 0
+Gear Boxes + wheels  | 1
+Magician's Chassis  | 0
+Omnibot  | 0
+Pan/tilt platform  | 1
+Sumobot Jr  | 0
+Tank  | 1
 
-## Extra Boards
-Board | Count
-------|------:
-Tessel | 1 | gjw
-Galileo | 1 | gjw
-Spark Core | 1
-Beaglebone Black | 1 | gjw
-Electronic Imp | 1
-Extra Arduino | 8 | gjw
+##Extra Boards
+Beaglebone Black  | 1
+Extra Arduino  | 8
+Galileo  | 1
+Intel Edison | 1
+Photon RedBoard | 1
+Raspberry Pi | 1
+Tessel  | 1
+
+## Electronics
+Item | Count
+---------------|-----------
+10' USB Cable A:B  | 0
+2x Reflectance  | 0
+3V Motor  | 0
+4x Ribbon Wire  | 1
+4xAA Battery Boxes  | 15
+5V regulator  | 4
+6xAA battery clip  | 0
+8x Ribbon wire | 1
+Aligator Clips  | 10
+Assorted capacitors  | 100
+Assorted resistors  | 300
+Black Wire  | 1
+Breadboard shields  | 1
+Colored Wire  | 8
+Diodes  | 100
+Extra 9v clips  | 10
+Gearmotors + Wheels 	0		## Electronics
+Heat Shrink tubing | 2
+Jumper Wires F/F  | 100
+Jumper Wires M/M  | 1000
+Large breadboards  | 6
+Little pill box  | 6
+M/F Header Extenders 40  | 7
+M/M Header Pins-40  | 13
+Medium breadboards  | 7
+Motor control shields  | 3
+Perf board  | 8
+Small breadboards  | 30
+Transistors 2222  | 50
+USB wifi module  | 1
+
+## Crafts
+Item | Count
+---------------|-----------
+1 lb rubber bands  | 1
+4" zip ties  | 1000
+8" zip ties  | 700
+Acrylic Sheets  | 2
+Aluminum Flashing 	1		## Crafts
+Bags of scrap balsa  | 3
+Binder clips(small)  | 9
+Clay blocks 	4		## Crafts
+Clothes Pins  | 15
+Cutting Mat  | 2
+Double sided tape  | 4
+Duct tape | 1
+Electrical tape  | 9
+Elmers glue  | 1
+Extra Platforms  | 6
+Extra Wheels  | 45
+Flip flops  |  1 pair 
+Foam board  | 5
+Heavy duty staples  | 200
+Krazy glue  | 5
+Larger form wood  | 0
+LED Lights Assemblies  | 16
+Magnetic tape  | 2
+Mounting Squares  | 50
+Orange Wheels  | 0
+Painters Tape | 1
+Pipe cleaners  | 35
+Plasti Dip  | 0
+Pushpins  | 300
+Quickset Epoxy  | 1
+Random Rubber Things  | 5
+Random wood squares  | 15
+Round magnets  | 47
+round Magnets(small)  | 30
+Round Magnets(Strong)  | 10
+Rubber Cement  | 0
+Sandpaper  | 1
+Scotch Tape  | 3
+Scrap Wood  | 0
+Self Drilling Screws  | 200
+Sharpie  | 12
+Sharpies | 18
+Shipping tape | 2
+Soft wire tie(spool green)  | 1
+Staples  | 1500
+Stiff wire (spring)  | 0
+tiara  | 1
+Toungue Depressers  | 50
+Velcro  | 3'
+Weatherseal spool  | 1
+White Paste Epoxy  | 1
+Wood wheels  | 50
+Wooden Dowel Rods  | 20
+Wooden Square Dowel Rods  | 20
+Yarn  | 1
+
+## Components
+Item | Count
+---------------|-----------
+4x 7 segment displays  | 5
+6V DC Motors(1:120)  | 19
+6V DC motors(1:48)  | 14
+6V DC Motors(Direct)  | 12
+7 segment displays | 16
+8x8 LED matrix  | 6
+Accelerometer  | 3
+Airplane wheels  | 2
+Assorted on/off switches  | 12
+Assorted push-button switches  | 30
+Barrometric Pressure/temp  | 1
+Blue LED  | 30
+Continuous Servos  | 19
+Flame sensors  | 3
+Gearbox  | 1
+Green LED  | 30
+Gyro/accel/temp sensors  | 3
+Hall sensor  | 1
+Hammer | 2
+H-Bridge (L293D Motor Drive) | 6
+Humidity sensor  | 1
+IR Receivers  | 8
+IR Remote controllers  | 6
+Joystick  | 2
+Laser Pointers  | 0
+LCD Display  | 1
+LED Display Driver  | 8
+Level switch  | 15
+Light sensors  | 12
+Mini Servos  | 6
+Numeric keypads  | 6
+Piezo buzzers  | 12
+Ping sensors  | 0
+Potentiometers  | 28
+Proximity sensor  | 1
+PWM driver | 1
+quadruple half-h drivers L293D | 4
+RC Receivers  | 4
+Red LED  | 30
+Reflectance Sensor  | 15
+Relays  | 13
+RF Module  | 0
+RGB LED  | 5
+Servo Horns  |  large bag 
+Shift registers  | 6
+Small Servos  | 14
+Standard Servos  | 12
+Tail wheel assembly  | 20
+Thermistor  | 7
+Touch sensor  | 2
+Vibration motors  | 0
+Water sensor  | 1
+White LED | 30
+Wi-Fi to Serial  | 0
+Wire Cutters | 3
 
