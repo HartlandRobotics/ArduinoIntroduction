@@ -70,6 +70,8 @@ Sumobot Jr  | 0
 Tank  | 1
 
 ##Extra Boards
+Item | Count
+---------------|-----------
 Beaglebone Black  | 1
 Extra Arduino  | 8
 Galileo  | 1
@@ -97,7 +99,7 @@ Breadboard shields  | 1
 Colored Wire  | 8
 Diodes  | 100
 Extra 9v clips  | 10
-Gearmotors + Wheels 	0		## Electronics
+Gearmotors + Wheels 	0
 Heat Shrink tubing | 2
 Jumper Wires F/F  | 100
 Jumper Wires M/M  | 1000
@@ -119,10 +121,10 @@ Item | Count
 4" zip ties  | 1000
 8" zip ties  | 700
 Acrylic Sheets  | 2
-Aluminum Flashing 	1		## Crafts
+Aluminum Flashing 	1
 Bags of scrap balsa  | 3
 Binder clips(small)  | 9
-Clay blocks 	4		## Crafts
+Clay blocks 	4
 Clothes Pins  | 15
 Cutting Mat  | 2
 Double sided tape  | 4
