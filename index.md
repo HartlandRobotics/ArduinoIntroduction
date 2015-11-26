@@ -3,7 +3,7 @@ layout: index
 title: "Welcome to NodeBots Unleashed @ CodeMash"
 ---
 
-<img class="logo intro-logo" src="{{ site.baseurl }}/assets/nodebots.day.png" />
+<img class="logo intro-logo" src="{{ site.baseurl }}/assets/nodebots.codemash.final.png" />
 
 ## Welcome to NodeBots Unleashed @ CodeMash!
 ### January 5th & 6th, 2016 at [CodeMash](http://www.codemash.org)

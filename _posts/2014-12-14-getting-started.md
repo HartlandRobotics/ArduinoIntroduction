@@ -7,29 +7,30 @@ date: 2014-12-23
 order: 1
 ---
 
-This guide is intended to get you familiar with using Johnny-Five to control inputs and outputs of your Arduino.  This section is completely optional, but it is a good way to start.  Do as much as you'd like, or jump right into building your bot.  Your choice!
+This guide is intended to get you familiar with using Johnny-Five to control the outputs of your Photon.  This section is completely optional, but it is a good way to start.  Do as much as you'd like, or jump right into building your bot.  Your choice!
 
 WARNING: Some LEDs can be very bright, so you should avoid looking directly into them.
 
 ## Make an LED blink!
-First step, let's make sure everything is working.  You will be running JavaScript on your computer which will communicate to your Arduino board via Serial.
+First step, let's make sure everything is working.  You will be running JavaScript on your computer which will communicate to your Photon board via WiFi.
 
 In this example, we'll just get an LED to blink.
 
 0. Make sure you've installed Node ([prerequisites]({{ site.baseurl }}/tut/prerequisites.html)) 
-0. Connect your Arduino to your computer via USB
+0. Connect your Photon to your computer via USB for power
 0. Open up a command prompt and create a folder to work in
 0. From there, install Johnny-Five: `npm install johnny-five`.  This will install into your "node_modules" folder.
+0. Now install the Particle-IO layer.  By default, Johnny-Five works with Arduinos, so this library will tell Johnny-Five how to speak Particle: `npm install particle-io`.
 0. Create a file called "bot.js" and add the [LED Blink Code](#ledblink).
-0. Wire up an LED (provided) to pin 11 with a resistor (provided) in serial to ground.
-    - IMPORTANT: One leg of the LED is longer than the other. As shown in the wiring diagram below, make sure the shorter leg is connected to ground via the resistor and the longer leg is connected to pin 11.
+0. Wire up an LED (provided) to pin D7.
+    - IMPORTANT: One leg of the LED is longer than the other. As shown in the wiring diagram below, make sure the shorter leg is connected to ground and the longer leg is connected to pin D7.
 0. Run your bot: `node bot.js`.  You should see the LED blinking!
     - If your LED is not lighting, double check you wired it correctly as noted in the previous step and shown in the wiring diagram below.
 
 <a name="ledblink"></a>
 **LED Blink Code:**
 
-<script src="http://gist-it.appspot.com/github/BrianGenisio/codemash-nodebots-docs/blob/master/examples/strobe.js"></script>
+<script src="http://gist-it.appspot.com/github/CareEvolution/nodebots-unleashed-codemash-docs/blob/master/examples/strobe.js"></script>
 
 **LED Blink Wiring:**
 
@@ -42,40 +43,4 @@ Give it a try.  Change `strobe()` to `brightness(100)` and re-run your script.  
 
 Now, change `brightness(100)` to `pulse(1000)`.  You are telling your LED to pulse between `0` and `255` over a 1-second interval.
 
-## Read Input using a Potentiometer
-A potentiometer (grab one from the lab) is a device that allows you to physically alter the resistance by turning a screw or sliding a lever.  It is a lot like a variable, but in hardware!  The included potentiometer is variable between 0ohm and 10Kohm over 20 full turns.  It has three pins.  The center pin will be variable and the outside pins will measure x or 10k-x.  
-
-If you send a voltage from one outside pin to the ground of the other outside pin, the middle pin becomes a "voltage divider".  If you attach the center pin to an analog input on your Arduino, you can read the value (`0` through `1023`).
-
-0. Put the potentiometer on your breadboard.
-0. Connect the 5V line from your Arduino to one of the end pins of your potentiometer.
-0. Connect the Ground line from your Arduino to the other end pin of your potentiometer
-0. Connect the center pin of your potentiometer to the "Analog 0" (A0) pin on your Arduino.  [Wiring Diagram](#potinput_wiring)
-0. Modify your "bot.js" file to include the [Potentiometer Input Code](#potinput) code.
-0. Run your bot code and see the results on the screen.  Turn the potentiometer and see how the values change.  The changes are small.  Remember that this component is variable over 20 turns.
-
-<a name="potinput"></a>
-**Potentiometer Input Code:**
-
-<script src="http://gist-it.appspot.com/github/BrianGenisio/codemash-nodebots-docs/blob/master/examples/read-sensor.js"></script>
-
-<a name="potinput_wiring"></a>
-**Potentiometer Input Wiring:**
-
-![Potentiometer Wiring Diagram]({{ site.baseurl }}/assets/wirings/led_control.png) 
-
-## Control the LED using the Potentiometer
-Now that you know how to control the brightness of your LED and you know how to read an input, let's put these two together.  You want small changes in your potentiometer to adjust your LED brightness, so you need to do some translation.  
-
-Basically, you want to take the input value (between `0` and `1023`) and translate it to a value between `0` and `255`.  But you don't want to do a direct translation.  You'd have to change the potientometer a lot to see a little change.  
-
-Instead, you can store the initial value and translate a swing of a small change to a percentage of the LED brightness.
-
-0. Modify your "bot.js" code to include the [LED Control Code](#led_control)
-0. Run your new code and see the brightness change by rotating the potentiometer.
-
-<a name="led_control"></a>
-**LED Control Code:**
-
-<script src="http://gist-it.appspot.com/github/BrianGenisio/codemash-nodebots-docs/blob/master/examples/led_control.js"></script>
 

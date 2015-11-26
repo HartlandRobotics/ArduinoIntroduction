@@ -7,20 +7,19 @@ order: 3
 ---
 The kit you were given includes the following components:
 
-- (1) [SainSmart Uno Arduino Clone](http://www.sainsmart.com/sainsmart-uno-r3-atmega328-au-development-board-compatible-with-arduino-uno-r3.html)
-- 5mm Wood Platform -- (1) 3" x 6.75" panel and (2) 2.5" wheels
-- (2) [Continuous Rotation Servos](http://www.amazon.com/NEEWER%C2%AE-Spring-SM-S4306R-Interface-degree/dp/B00EDESABU#)
-- (1) [5/8" Ball Caster](http://www.amazon.com/TruePower-Roller-Ball-Transfer-Bearings/dp/B009KAQVWC/ref=sr_1_4)
-- (1) [Small Breadboard](http://www.amazon.com/SYB-170-Color-Board-Small-Bread/dp/B00ARUF2JM/ref=sr_1_2)
-- (6) [Solderless Breadboard Wires](http://www.amazon.com/Wosang-Solderless-Flexible-Breadboard-Jumper/dp/B005TZJ0AM/ref=pd_bxgy_e_img_y)
-- (2) [3-pin Headers](http://www.amazon.com/5pcs-Angle-Single-Header-Strip/dp/B0079SK5MO/ref=sr_1_4)
-- (1) 10' USB Cable (A to B)
-- (1) 9v Battery
-- (1) 9v to 2.1mm Battery Clip
+- (1) [Particle Photon](https://www.particle.io/prototype)
+- (1) Laser-cut Woodden Chassis
+- (1) [L9110 Dual Motor Controller](http://www.bajdi.com/l9110-h-bridge-module/)
+- (2) [1:48 Gearmotor / Wheel](http://www.amazon.com/JOSYOO-Smart-Wheel-arduino-project/dp/B0116UXVCQ/ref=sr_1_sc_2)
+- (1) 5/8" 3D-Printed Ball Caster
+- (1) [400 pt Breadboard](https://www.pololu.com/product/351)
+- (20) [Solderless Breadboard Wires](http://www.amazon.com/Wosang-Solderless-Flexible-Breadboard-Jumper/dp/B005TZJ0AM/ref=pd_bxgy_e_img_y)
+- (1) 3' USB Cable (Micro)
+- (4) AA Batteries
+- (1) [Battery Box](http://www.amazon.com/Switch-Battery-Holder-Leads-Black/dp/B00H8SWZNW/ref=sr_1_1)
 - (4) Zipties
-- (6) #6x3/8" Self-Drilling Screws
+- (2) Screws
 - (1) LED
-- (1) 220 Ohm Resitor
 
 You are encouraged to build your bot however you want, but this is how you can build it without any modifications from the original design.
 
@@ -31,44 +30,17 @@ You want to get a feel for where everything will go.  Lay your major components 
 
 ![Rough-out the parts](/assets/nodebot-assemble/nodebot-rough-out.JPG)
 
-### Attach your wheels to your servos
-Attach a servo horn (from those provided with the servo) to each of the wheels using the self-drilling screws.  The holes in the servo horn are smaller than the screws but these screws make quick work of the plastic and go right through to the wood (just make sure the servo horn is centered on your wheel).
+### Wire up the bot
+You will be using a breadboard for this.  Remove the adhesive backing and attach it ot the chassis.  Connect the chip to the board with the USB power facing outward.  Use the power rails on the breadboard (red is positive, black is ground) to connect the battery box to the VIN and GND pins on the chip.
 
-Once the horns are attached to the wheels, attach each wheel to a servo using the small black screws provided.
+Connect the motor wires to the motor controller screw-taps.  Place the motor controller on the breadboard.  Set the VCC and GND based on the power rails of the breadboard.  Connect M1 to pins D1 and D2 on the chip.  Connect M2 to M4 and M5 on the chip.
 
-![Attach the wheels to the servo horns](/assets/nodebot-assemble/nodebot-attach-wheels-to-servo.JPG)
+![Wire up the motor controller](/assets/nodebot-assemble/nodebot-wiring.jpg)
 
-### Attach the servos to your chassis
-Use two of the zip-ties to attach your servos to your chassis.  After they are tight, trim any excess.  Pro Tip: Put the servos on the opposite side of the Nodebots Day etching so they don't cover it up.
+### Attach the motors to the chassis
+Using a ziptie, attach the motors to the chassis with some zip ties.  Adhere the battery box to chassis with some double-stick tape.  Attach the ball caster using some screws.
 
-![Mark your servo location](/assets/nodebot-assemble/nodebot-mark-servo-location.JPG)
-![Attach the servos with zip-ties](/assets/nodebot-assemble/nodebot-attach-servos.JPG)
-
-### Attach the caster wheel to the bottom of the chassis
-The self-drilling screws are really useful for this.
-
-![Attach the front caster wheel](/assets/nodebot-assemble/nodebot-attach-caster2.JPG)
-
-### Attach the Arduino and Breadboard
-Affix the Arduino using double-stick tape.  Affix the breadboard using the attached mounting tape.
-
-![Affix the boards](/assets/nodebot-assemble/nodebot-attach-boards.JPG)
-
-### Mount the battery
-Using double-stick tape, affix the battery to the bot.  Connect it to the Arduino using the 9v clip.  You may also find it useful to lay the battery on its side between the servos.
-
-*Make sure your Arduino is switched to 5 Volts (not 3.3 Volts).  The switch is between the USB port and the power input.*
-
-![Affix the battery](/assets/nodebot-assemble/nodebot-attach-battery.JPG)
-
-### Power the servos from the board
-You are not likely to keep the servos here permanently, but this is a good starting point.  Pins 9 and 10 support PWM signals, which are best for servos.  You can connect them to the SVG pin headers for now.  The white leads are the "signal" for the SVG pins.
-
-![Power the servos](/assets/nodebot-assemble/nodebot-plug-servos.JPG)
-
-Your servos may start spinning now.  If that happens, you can trim them using the screws on the back of the servos.  You may need to do this again once you have hooked your system up to the software.
-
-![Trim the servos](/assets/nodebot-assemble/nodebot-calibrate.JPG)
+![Attach wheels and power](/assets/nodebot-assemble/nodebot-underside.jpg)
 
 ### Start programming your bot!
 
@@ -77,8 +49,6 @@ Now you have a working bot.  You can plug your USB cable into the board and get 
 **bot.js**
 
 <script src="http://gist-it.appspot.com/github/BrianGenisio/codemash-nodebots-docs/blob/master/examples/base-sumobot.js"></script>
-
-**__NOTE:__** When you run this code (`node bot.js`), the wheels may start spinning.  They have been centered, so this means they need to be trimmed until they stop spinning.  Use a screwdriver and trim them until they are silent.
 
 ### Resources:
 - [Johnny-Five Docs](https://github.com/rwaldron/johnny-five/wiki/Servo)
