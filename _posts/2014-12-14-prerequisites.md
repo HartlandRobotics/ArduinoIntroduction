@@ -16,9 +16,9 @@ order: 0
 ## Node.js (required) 
 This is the only required software.  These are [NodeBots](http://nodebots.io) so they require [Node.js](http://nodejs.org) to run. Node is a JavaScript runtime based on the V8 engine.  It is how you will be running the code today.  Just download and install it.
 
-- [OSX](https://nodejs.org/dist/v5.1.0/node-v5.1.0.pkg)
-- [Windows 32bit](https://nodejs.org/dist/v5.1.0/node-v5.1.0-x86.msi)
-- [Windows 64bit](https://nodejs.org/dist/v5.1.0/node-v5.1.0-x64.msi)
+- [OSX](https://nodejs.org/dist/v4.2.3/node-v4.2.3.pkg)
+- [Windows 32bit](https://nodejs.org/dist/v4.2.3/node-v4.2.3-x86.msi)
+- [Windows 64bit](https://nodejs.org/dist/v4.2.3/node-v4.2.3-x64.msi)
 
 <a name="git"></a>
 ## Git (recommended)
