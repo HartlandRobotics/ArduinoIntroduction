@@ -3,8 +3,8 @@ var Particle = require("particle-io");
 
 var board = new five.Board({
   io: new Particle({
-    token: process.env.PARTICLE_TOKEN,
-    deviceId: process.env.PARTICLE_DEVICE_ID
+    token: '7ae40abd0f7c272888ca95b6740667febd1a29c8',
+    deviceId: 'YOUR_DEVICE_ID'
   })
 });
 

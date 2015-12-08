@@ -1,5 +1,12 @@
 var five = require("johnny-five");
-var board = new five.Board();
+var Particle = require("particle-io");
+
+var board = new five.Board({
+  io: new Particle({
+    token: '7ae40abd0f7c272888ca95b6740667febd1a29c8',
+    deviceId: 'YOUR_DEVICE_ID'
+  })
+});
 
 board.on("ready", function() {
 
