@@ -11,12 +11,10 @@ This guide is intended to get you familiar with using Johnny-Five to control the
 
 ## Hook up your Photon
 
-0. Un-package your photon.  Notice that your photon has a name on its belly?  That name is there to make it easier for you to find your device ID.  Why didn't we print the device ID on the belly?  Because it is hard to type.  The name is easier.
-0. Hook your photon to your breadboard, and then to power via USB.
+0. Un-package your photon.  Notice that your Photon has a name on its belly?  You'll use this name when controlling your Photon.
+0. Hook your Photon to your breadboard, and then to power via USB.
 0. Make sure your computer is on the Nodebots network (password: whosjohnny)
 0. We've already provisioned and set-up your Photon on this network.  Assuming everything is working properly, the light on your photon should be "breathing cyan".
-0. Go to [the name resolver](http://example.com) and enter your device name to get your device ID.  Copy it for later.
-
 
 WARNING: Some LEDs can be very bright, so you should avoid looking directly into them.
 
@@ -29,9 +27,8 @@ In this example, we'll just get an LED to blink.
 0. Open up a command prompt and create a folder to work in
 0. From there, install Johnny-Five: `npm install johnny-five`.  This will install into your "node_modules" folder.
 0. Now install the Particle-IO layer.  By default, Johnny-Five works with Arduinos, so this library will tell Johnny-Five how to speak Particle: `npm install particle-io`.
-0. Create a file called "bot.js" and add the [LED Blink Code](#ledblink).
-0. Wire up an LED to pin D7
-    - IMPORTANT: One leg of the LED is longer than the other. As shown in the wiring diagram below, make sure the shorter leg is connected to ground and the longer leg is connected to pin D7.
+0. Create a file called "bot.js" and add the [LED Blink Code](#ledblink).  
+0. Your Photon has a built-in LED on pin D7, so you can hook one up if you want, but it is completely optional.
 0. Run your bot: `node bot.js`.  You should see the LED blinking!
     - If your LED is not lighting, double check you wired it correctly as noted in the previous step and shown in the wiring diagram below.
 
@@ -43,6 +40,11 @@ In this example, we'll just get an LED to blink.
 **LED Blink Wiring:**
 
 ![LED Wiring Diagram]({{ site.baseurl }}/assets/wirings/led.png)
+
+## What's happening?
+Your Photon is listening for commands on a TCP port on the local network.  Your `bot.js` code is running on your machine.  You don't know the IP address and port of your photon, but it has broadcast this information to the cloud.  When you configured your code to use a token and your unique device name, it retrieves the IP address and port of your Photon and then connects to it.
+
+Once that is complete, your code will receive a "ready" event.  At that time, the LED abstraction will send on/off signals over the network to your chip.  This is how you will be programming your photon today to do all sorts of things.
 
 ## Make the LED pulse
 In the last example, you told the LED to turn on and off.  Internally, the `strobe()` method just turns the pin high and low over time.  We'd like to change this program to fade in and out over time.  Instead of going high or low, you will be using the PWM (pulse width modulation) features of the board.  You can set the values to anywhere between `0` and `255` which will create a "square wave" with a duty cycle that simulates a "percentage on".  

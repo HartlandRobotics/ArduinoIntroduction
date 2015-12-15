@@ -13,7 +13,7 @@ order: 0
 > All of the files have been packaged up into a [single location](http://todomvc.com) for your convenience.
 
 <a name="nodejs"></a>
-## Node.js (required) 
+## Node.js 4.2.x (required) 
 This is the only required software.  These are [NodeBots](http://nodebots.io) so they require [Node.js](http://nodejs.org) to run. Node is a JavaScript runtime based on the V8 engine.  It is how you will be running the code today.  Just download and install it.
 
 - [OSX](https://nodejs.org/dist/v4.2.3/node-v4.2.3.pkg)

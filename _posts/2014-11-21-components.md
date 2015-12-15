@@ -6,7 +6,7 @@ date: 2014-11-21
 order: 0
 ---
 
-We have a LOT of components to help you make your design a reality.  For a full list of the components we have available to you, you can see our [Lab Inventory](https://docs.google.com/spreadsheets/d/1snX36J_Z5fDnIDeg48gQlfwQUidzGE4iUPnsUCTJoA8/edit#gid=0).  Most of these components have a nice Johnny-Five abstraction.  Some components that are particularly interesting:
+We have a LOT of components to help you make your design a reality.  For a full list of the components we have available to you, you can see our [Lab Inventory](https://github.com/CareEvolution/nodebots-unleashed-codemash-docs/blob/master/inventory.md).  Most of these components have a nice Johnny-Five abstraction.  Some components that are particularly interesting:
 
 ## Servos
 ![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
@@ -84,11 +84,11 @@ Many of the above components are contained and you don't need extra circuitry to
 
 Your kit includes a small breadboard.  We have several extra, larger breadboards.  We also have breadboard shields as well as solder boards for you to use.
 
-## Batteries and Charger
+## Batteries
 ![9v]({{ site.baseurl }}/assets/components/9v.jpg)
 ![AA]({{ site.baseurl }}/assets/components/aa.jpg)
 ![AA clip]({{ site.baseurl }}/assets/components/aa-clip.jpg)
 
-Your kit includes a 9V battery, which is necessary to power your higher-power devices (servos, motors, etc).  Should you spend all the energy in your battery, we have some extra 9V batteries.  We also have several AA batteries and 4x clips (6V).  We also have some high-capacity rechargeable batteries in stock.  
+Your kit includes four AA batteries.  Should you spend all the energy in your battery, we have some extra batteries for you to use.  We also have several 9V batteries and clips.
 
 
