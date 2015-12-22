@@ -49,7 +49,8 @@ board.on("ready", function() {
   }
 
   function exit() {
-    stop();
+    leftWheel.rev(0);
+    rightWheel.rev(0);
     process.exit();
   }
 
