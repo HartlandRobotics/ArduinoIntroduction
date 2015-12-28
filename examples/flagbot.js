@@ -51,7 +51,7 @@ board.on("ready", function() {
   function exit() {
     leftWheel.rev(0);
     rightWheel.rev(0);
-    process.exit();
+    setTimeout(process.exit, 1000);
   }
 
   var keyMap = {
