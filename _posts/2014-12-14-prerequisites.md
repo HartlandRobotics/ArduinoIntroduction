@@ -10,7 +10,7 @@ order: 0
 0. [Git (optional but recommended)](#git)
 0. [Sublime Text (optional)](#sublime)
 
-> All of the files have been packaged up into a [single location](http://todomvc.com) for your convenience.
+> All of the files have been packaged up into a [single location](https://www.dropbox.com/sh/4c2wp7h3ps6frvn/AAB5SRGgVgjOjP3waLIx9pN6a) for your convenience.
 
 <a name="nodejs"></a>
 ## Node.js 4.2.x (required) 
