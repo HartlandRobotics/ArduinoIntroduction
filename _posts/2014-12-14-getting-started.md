@@ -46,11 +46,6 @@ Your Photon is listening for commands on a TCP port on the local network.  Your 
 
 Once that is complete, your code will receive a "ready" event.  At that time, the LED abstraction will send on/off signals over the network to your chip.  This is how you will be programming your photon today to do all sorts of things.
 
-## Make the LED pulse
-In the last example, you told the LED to turn on and off.  Internally, the `strobe()` method just turns the pin high and low over time.  We'd like to change this program to fade in and out over time.  Instead of going high or low, you will be using the PWM (pulse width modulation) features of the board.  You can set the values to anywhere between `0` and `255` which will create a "square wave" with a duty cycle that simulates a "percentage on".  
 
-Give it a try.  Change `strobe()` to `brightness(100)` and re-run your script.  Change the value from `100` to something else like `50` or `200`.  Notice how the LED brightness is controlled!
-
-Now, change `brightness(100)` to `pulse(1000)`.  You are telling your LED to pulse between `0` and `255` over a 1-second interval.
 
 
