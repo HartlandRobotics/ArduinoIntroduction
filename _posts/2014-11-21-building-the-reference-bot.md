@@ -81,7 +81,7 @@ Connect the ground rail on the breadboard (-) to the GND pin on the motor contro
 ![Power the controller](/assets/nodebot-assemble/12_power_motor_controller.jpg)
 
 ### Control the motor controller
-Each motor uses two control pins: one for direction, and one for speed.  Connect Photon pins D1 and D2 to the left-most pins per motor.  Connect D4 and D5 to the right-most pins per motor (see schematic).
+Each motor uses two control pins: one for direction, and one for speed.  Connect Photon pins D0 and D1 to the left-most pins per motor.  Connect D4 and D5 to the right-most pins per motor (see schematic).
 
 ![control the controller](/assets/nodebot-assemble/13_motor_controller_io.jpg)
  
