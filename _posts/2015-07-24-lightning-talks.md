@@ -10,6 +10,8 @@ order: 6
 
 <iframe src="https://docs.google.com/presentation/d/1JCa5_iKRI2AH1O94hxeGdOqIBHtGDrsY1vACnKZHNN8/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Safety
+
 <iframe src="https://docs.google.com/presentation/d/13tKoXSQbAHshnMoTjQAC5IcKNJp0xcKzDpfxmvwKShY/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Game Rules
@@ -31,3 +33,7 @@ order: 6
 ## Particle Photon
 
 <iframe src="https://docs.google.com/presentation/d/1O0tpXDRX7WNwvhDUhyN2HYIXncpIHDSTLBp_RUrhe_s/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Controls Tips
+
+<iframe src="https://docs.google.com/presentation/d/1bB_K2wsez_Xxj31K2jL_Udd0fqrcoogdb8Ju2WkBJzY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
