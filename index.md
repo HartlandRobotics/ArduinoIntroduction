@@ -6,7 +6,10 @@ title: "Welcome to NodeBots Unleashed @ CodeMash"
 <img class="logo intro-logo" src="{{ site.baseurl }}/assets/nodebots.codemash.final.png" />
 
 ## How to claim your Photon as your own
-We've released all of the photons from our account, so now the chips are yours.  You will need to create an account with Particle and [provision your chip as your own](https://docs.particle.io/guide/getting-started/start/photon/).  You will get a new API key, so don't forget to update your JavaScript code with the new API key and name!
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/jhism2iqT7o" frameborder="0" allowfullscreen></iframe>
+
+We've released all of the photons from our account, so now the chips are yours.  Watch this [video](https://youtu.be/jhism2iqT7o) for details.  Basically, you will need to create an account with Particle and [provision your chip as your own](https://docs.particle.io/guide/getting-started/start/photon/).  You will get a new API key, so don't forget to update your JavaScript code with the new API key and name!
 
 You will also need to re-add [VoodooSpark](https://github.com/voodootikigod/voodoospark) to the board so that Johnny-Five can communicate with it!
 
