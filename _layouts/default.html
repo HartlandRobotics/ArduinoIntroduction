@@ -24,6 +24,15 @@
         </div>
 
         <div class="container-fluid">
+          <div class="row">
+            <dl>
+              <dt>site.url</dt><dd>{{site.url}}</dd>
+              <dt>site.baseurl</dt><dd>{{site.baseurl}}</dd>
+              <dt>site</dt><dd>{{site}}</dd>
+            </dl>
+          </div>
+
+
             <div class="row">
                 {% assign post_count = site.posts|size %}
                 {% if site.navigation != 0 and site.navigation == 1 or post_count > 0 %}
@@ -47,14 +56,6 @@
                 </div>
             </div>
         </div>
-        <div>
-          <dl>
-            <dt>site.url</dt><dd>{{site.url}}</dd>
-            <dt>site.baseurl</dt><dd>{{site.baseurl}}</dd>
-            <dt>site</dt><dd>{{site}}</dd>
-          </dl>
-        </div>
-
         <script src="{{ site.baseurl }}/js/jquery.js"></script>
         <script src="{{ site.baseurl }}/js/bootstrap.js"></script>
         <script>
