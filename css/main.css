@@ -100,7 +100,8 @@ p {
 }
 
 #header .navbar-brand a {
-    color: #232323;
+    color: #FABE20;
+    font-family: 'collegeregular', Times New Roman, serif;
 }
 
 #header .navbar-right {
