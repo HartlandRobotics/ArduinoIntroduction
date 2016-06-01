@@ -1,4 +1,5 @@
 body {
+  margin-top: 15px;
     font-weight: 400;
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
     padding-top: 70px;
@@ -86,7 +87,7 @@ p {
  */
 #header {
     background-color: #152e55;
-    002a5a
+    margin-top: 15px;
 }
 
 #header h2, #header h3, #header h4, #header h5 {
@@ -97,17 +98,18 @@ p {
 #header .navbar-brand {
     height: auto;
     padding: 0px;
+    line-height: 40px;
 }
 
 #header .navbar-brand a {
     color: #FABE20;
     text-shadow:
-      -2px -2px 0 #ED2224,
-      2px -2px 0 #ED2224,
-      -2px 2px 0 #ED2224,
-      2px 2px 0 #ED2224;
+      -3px -3px 0 #ED2224,
+      3px -3px 0 #ED2224,
+      -3px 3px 0 #ED2224,
+      3px 3px 0 #ED2224;
     font-family: 'collegeregular', Times New Roman, serif;
-    font-size: 28pt;
+    font-size: 45pt;
     letter-spacing: 2pt;
 }
 
