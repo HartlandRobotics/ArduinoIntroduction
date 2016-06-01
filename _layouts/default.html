@@ -10,10 +10,10 @@
 
         <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
 
-        <link rel="stylesheet" href="{{ site.base-url }}/css/bootstrap.css">
-        <link rel="stylesheet" href="{{ site.base-url }}/css/font-awesome.min.css">
-        <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
-        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     </head>
     <body>
 
@@ -24,15 +24,6 @@
         </div>
 
         <div class="container-fluid">
-          <div class="row">
-            <dl>
-              <dt>site.url</dt><dd>{{site.url}}</dd>
-              <dt>site.baseurl</dt><dd>{{site.baseurl}}</dd>
-              <dt>site</dt><dd>{{site}}</dd>
-            </dl>
-          </div>
-
-
             <div class="row">
                 {% assign post_count = site.posts|size %}
                 {% if site.navigation != 0 and site.navigation == 1 or post_count > 0 %}
