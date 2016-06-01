@@ -103,11 +103,11 @@ p {
     color: #FABE20;
     text-shadow:
       -2px -2px 0 #ED2224,
-      -2px -2px 0 #ED2224,
-      -2px -2px 0 #ED2224,
-      -2px -2px 0 #ED2224;
+      2px -2px 0 #ED2224,
+      -2px 2px 0 #ED2224,
+      2px 2px 0 #ED2224;
     font-family: 'collegeregular', Times New Roman, serif;
-    font-size: 16pt;
+    font-size: 28pt;
 }
 
 #header .navbar-right {
