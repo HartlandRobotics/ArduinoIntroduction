@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'NodeBots Unleashed @ CodeMash'
-subtitle: 'How to build a wireless bot for fun and profit'
+title: 'Introduction to Robotics'
+subtitle: 'Build your own robot with the Hartland Robitics team'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
@@ -9,7 +9,7 @@ subtitle: 'How to build a wireless bot for fun and profit'
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/NodeBotsDayA2/nodebots-annarbor-docs'
+codeurl: 'https://github.com/HartlandRobotics/ArduinoIntroduction'
 
 # Default categories (in order) to appear in the navigation
 sections: [
