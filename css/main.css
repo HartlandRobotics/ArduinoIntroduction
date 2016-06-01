@@ -85,7 +85,8 @@ p {
  * Application navbar header
  */
 #header {
-    background-color: #f7df1e;
+    background-color: #152e55;
+    002a5a
 }
 
 #header h2, #header h3, #header h4, #header h5 {
@@ -229,3 +230,17 @@ p {
         width: auto;
     }
 }
+
+@font-face {
+    font-family: 'collegeregular';
+    src: url('../fonts/COLLEGE-webfont.eot');
+    src: url('../fonts/COLLEGE-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/COLLEGE-webfont.woff') format('woff'),
+         url('../fonts/COLLEGE-webfont.ttf') format('truetype'),
+         url('../fonts/COLLEGE-webfont.svg#collegeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
