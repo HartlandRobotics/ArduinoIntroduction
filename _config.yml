@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Hartland Robotics'
-subtitle: 'Build your own robot with the Hartland Robitics team'
+subtitle: 'Build your own robot with the Hartland Robotics team'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide

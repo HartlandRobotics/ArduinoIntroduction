@@ -73,7 +73,8 @@ p {
 
 #social-media a {
     background-color: transparent;
-    color: #696969;
+    /*color: #696969;*/
+    color: white;
 }
 
 #social-media a:hover {
