@@ -102,14 +102,6 @@ p {
 
 #header .navbar-brand a {
     color: #FABE20;
-    text-shadow:
-      -3px -3px 0 #ED2224,
-      3px -3px 0 #ED2224,
-      -3px 3px 0 #ED2224,
-      3px 3px 0 #ED2224;
-    font-family: 'collegeregular', Times New Roman, serif;
-    font-size: 45pt;
-    letter-spacing: 2pt;
 }
 
 #header .navbar-right {
@@ -238,6 +230,21 @@ p {
     .intro-logo {
         width: auto;
     }
+}
+
+.brand-font {
+    color: #FABE20;
+    font-family: 'collegeregular', Times New Roman, serif;
+    font-size: 45pt;
+    letter-spacing: 2pt;
+}
+
+.brand-font-outline {
+    text-shadow:
+      -3px -3px 0 #ED2224,
+      3px -3px 0 #ED2224,
+      -3px 3px 0 #ED2224,
+      3px 3px 0 #ED2224;
 }
 
 @font-face {
