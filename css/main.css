@@ -231,6 +231,10 @@ p {
     }
 }
 
+.subtitle {
+    color: #FABE20;
+}
+
 .brand-font {
     color: #FABE20;
     font-family: 'collegeregular', Times New Roman, serif;
