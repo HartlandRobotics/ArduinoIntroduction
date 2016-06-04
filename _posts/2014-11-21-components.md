@@ -19,12 +19,13 @@ We will use LEDs to build our first simple circuit. LEDs are available
 in many different colors to personalize your bot! The LEDs that we are
 using came in a kit with some other fun parts. Available on [Amazon](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
 
-## Motors, Gears, Wheels, HBridges, Motor Shields
+## Motors and Wheels
 ![Motor]({{ site.baseurl }}/assets/components/motor.jpg)
-![Gearmotor]({{ site.baseurl }}/assets/components/gearmotor.jpg)
-![Motor Shield]({{ site.baseurl }}/assets/components/motorshield.jpg)
 
-There are times when you want access to a vanilla motor.  These motors are much more simple than servos -- they don't have any gears or motor control circuitry -- so they give you more control.  We have gearboxes and wheels in order to transfer the motor's drive to much higher torque.  We also have HBridges which can drive a motor and control the direction.  We also have "motor shields" which plug into your Arduino and include the circuitry necessary to drive motors. [Johnny-Five Motor Reference](https://github.com/rwaldron/johnny-five/wiki/Motor)
+Motors and Wheels 
+There are many places to purchase these. For this workshop, we found
+them on [ebay](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536) a bit cheaper. 
+
 
 ## Joysticks
 ![Joystick]({{ site.baseurl }}/assets/components/joystick.jpg)
