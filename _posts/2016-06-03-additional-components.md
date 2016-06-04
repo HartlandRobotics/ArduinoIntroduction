@@ -19,7 +19,7 @@ Motor shields are an alternative to motor controllers that can help protect the 
 ## Joysticks
 ![Joystick]({{ site.baseurl }}/assets/components/joystick.jpg)
 
-We have a handful of Joystic controls that you can hook up for control.  They include X and Y directions as well as single push-buttons.  [Johnny-Five Joystick Example](https://github.com/rwaldron/johnny-five/blob/master/eg/joystick.js)
+Joystic controls can be hooked up for controlling something attached to your robot.  They include X and Y directions as well as single push-buttons.
 
 ## Toggles, Pushbuttons, Relays
 ![Toggle Switch]({{ site.baseurl }}/assets/components/toggle.jpg)
