@@ -1,4 +1,4 @@
-
+body {
   margin-top: 15px;
     font-weight: 400;
     padding-top: 70px;
@@ -65,6 +65,7 @@ p {
     display: none;
     float: left;
     margin: 0px 10px;
+    padding-right: 25px;
 }
 
 #social-media > li {
@@ -75,7 +76,6 @@ p {
     background-color: transparent;
     /*color: #696969;*/
     color: white;
-    font-size: 30pt;
 }
 
 #social-media a:hover {
@@ -97,7 +97,7 @@ p {
 
 #header .navbar-brand {
     height: auto;
-    padding: 0px;
+    padding: 0 0 0 25px;
     line-height: 40px;
 }
 
