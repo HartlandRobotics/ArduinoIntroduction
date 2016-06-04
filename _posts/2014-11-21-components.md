@@ -20,21 +20,20 @@ in many different colors to personalize your bot! The LEDs that we are
 using came in a kit with some other fun parts. Available on [Amazon](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
 
 ## Motors and Wheels
-![Motor]({{ site.baseurl }}/assets/components/motor.jpg)
+![Motor]({{ site.baseurl }}/assets/components/geared-motor.jpg)
 
-Motors and Wheels 
+Motors and Wheels
 There are many places to purchase these. For this workshop, we found
-them on [ebay](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536) a bit cheaper. 
+them on [ebay](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536) a bit cheaper.
 
 ## Ping (distance) Sensors
 ![Ping Sensor]({{ site.baseurl }}/assets/components/ping.jpg)
 
 Ping sensors can tell you how far away an object is.  They send out an ultrsonic pulse and measure the time it takes to receive the response.  [Johnny-Five Ping Reference](https://github.com/rwaldron/johnny-five/wiki/Ping)
 
-## Breadboards, Wires, and Pins
+## Breadboards and Wires
 ![Breadboard]({{ site.baseurl }}/assets/components/breadboard.jpg)
 ![wires]({{ site.baseurl }}/assets/components/wires.jpg)
-![pins]({{ site.baseurl }}/assets/components/pins.jpg)
 
 Your kit includes a small breadboard.  We have several extra, larger breadboards.  We also have breadboard shields as well as solder boards for you to use.
 
@@ -47,16 +46,7 @@ Your kit includes four AA batteries.  Should you spend all the energy in your ba
 
 
 ## Photosensors, Motion Sensors, Flame Sensors, Reflectance Sensors
-![Photosensor]({{ site.baseurl }}/assets/components/photo.jpg)
-![Motion Sensor]({{ site.baseurl }}/assets/components/motion.jpg)
-![Flame Sensor]({{ site.baseurl }}/assets/components/flame.jpg)
 ![Reflectance Array]({{ site.baseurl }}/assets/components/reflectance.jpg)
 
 We have all sorts of light-based sensors for you to work with.  Light sensors will detect ambient light.  They can also be controlled via laser pointers!  Motion sensors will detect when something is in front of it.  Flame sensors will detect flames!  Reflectance sensors will detect white vs black material.  They are great for writing line-following bots! [Johnny-Five Sensor Reference](https://github.com/rwaldron/johnny-five/wiki/Sensor), [Johnny-Five Reflectance Array Reference](https://github.com/rwaldron/johnny-five/wiki/IR.Reflect.Array)
-## Temperature, Humidity, Barrometric Pressure, Water Sensors
-![Temperature Sensor]({{ site.baseurl }}/assets/components/temperature.jpeg)
-![Water Sensor]({{ site.baseurl }}/assets/components/water.jpg)
-
-We have a handful of sensors that you can use to read the conditions around you.  Temperature sensors have a Johnny-Five abstraction but the others just need to use the Sensor class. [Johnny-Five Temperature Reference](https://github.com/rwaldron/johnny-five/wiki/Sensor), [Johnny-Five Sensor Reference](https://github.com/rwaldron/johnny-five/wiki/Sensor)
-
 
