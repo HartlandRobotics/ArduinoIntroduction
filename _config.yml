@@ -17,7 +17,6 @@ sections: [
     ['tutorial', 'Tutorial'],
     ['ref', 'Reference'],
 
-    ['doc', 'Documentation'],
     ['act', 'Activities'],
     ['tut', 'Tutorial'],
     #['ref', 'Reference'],
