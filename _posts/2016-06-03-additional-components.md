@@ -1,30 +1,21 @@
 ---
 layout: page
-title: "Included Components"
+title: "Additional Components"
 category: ref
 date: 2016-06-03
-order: 0
+order: 3
 ---
 
-## Arduino 
-![Arduino]({{site.baseurl }}/assets/boards/uno.JPG)
+## Servos
+![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
 
-Arduino will be the microcontroller that will be controlling your robot.
-These can be purchased on [Amazon](http://www.amazon.com/LANMU%C2%AE-Atmega328p-Atmega16u2-Version-Arduino/dp/B00SF28U7A?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
+Servos are a specific kind of motor which includes gearing and motor control built into the package. The servos you received in your kit are "continuous rotation" servos.  This means that they can rotate clockwise (`servo.cw()`) and counterclockwise (`servo.ccw()`) indefinately.  They work well for rotating the wheels of your bot.  You also have access to some standard servos which rotate (`servo.to(degs)`) to a specific value.  We have several standard-sized servos as well as several micro-sized servos.  [Johnny-Five Servo Reference](https://github.com/rwaldron/johnny-five/wiki/Servo)
 
-## LEDs, Digit Displays, Matrix, Drivers
-![LED]({{ site.baseurl }}/assets/components/leds.jpeg)
 
-We will use LEDs to build our first simple circuit. LEDs are available
-in many different colors to personalize your bot! The LEDs that we are
-using came in a kit with some other fun parts. Available on [Amazon](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
-
-## Motors, Gears, Wheels, HBridges, Motor Shields
-![Motor]({{ site.baseurl }}/assets/components/motor.jpg)
-![Gearmotor]({{ site.baseurl }}/assets/components/gearmotor.jpg)
+## Motor Shields
 ![Motor Shield]({{ site.baseurl }}/assets/components/motorshield.jpg)
 
-There are times when you want access to a vanilla motor.  These motors are much more simple than servos -- they don't have any gears or motor control circuitry -- so they give you more control.  We have gearboxes and wheels in order to transfer the motor's drive to much higher torque.  We also have HBridges which can drive a motor and control the direction.  We also have "motor shields" which plug into your Arduino and include the circuitry necessary to drive motors. [Johnny-Five Motor Reference](https://github.com/rwaldron/johnny-five/wiki/Motor)
+We also have "motor shields" which plug into your Arduino and include the circuitry necessary to drive motors. [Johnny-Five Motor Reference](https://github.com/rwaldron/johnny-five/wiki/Motor)
 
 ## Joysticks
 ![Joystick]({{ site.baseurl }}/assets/components/joystick.jpg)
@@ -88,11 +79,5 @@ Your kit includes a small breadboard.  We have several extra, larger breadboards
 ![AA clip]({{ site.baseurl }}/assets/components/aa-clip.jpg)
 
 Your kit includes four AA batteries.  Should you spend all the energy in your battery, we have some extra batteries for you to use.  We also have several 9V batteries and clips.
-
-
-## Servos
-![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
-
-Servos are a specific kind of motor which includes gearing and motor control built into the package. The servos you received in your kit are "continuous rotation" servos.  This means that they can rotate clockwise (`servo.cw()`) and counterclockwise (`servo.ccw()`) indefinately.  They work well for rotating the wheels of your bot.  You also have access to some standard servos which rotate (`servo.to(degs)`) to a specific value.  We have several standard-sized servos as well as several micro-sized servos.  [Johnny-Five Servo Reference](https://github.com/rwaldron/johnny-five/wiki/Servo)
 
 
