@@ -42,7 +42,7 @@ The breadboard and wires are used to connect all of your components together wit
 ![AA]({{ site.baseurl }}/assets/components/aa.jpg)
 ![AA clip]({{ site.baseurl }}/assets/components/aa-clip.jpg)
 
-Your kit includes four AA batteries.  Should you spend all the energy in your battery, we have some extra batteries for you to use.  We also have several 9V batteries and clips.
+Your kit includes AA batteries and a 9v battery. The AA batteries will be held in a clip to contain the batteries and to provide the wires to power our motors. This clip can be purchased on [Amazon](http://www.amazon.com/uxcell-Switch-Battery-Holder-Leads/dp/B00P26O0K8/ref=sr_1_2?rps=1&ie=UTF8&qid=1463491924&sr=8-2&keywords=battery+case+box+holder+AA+4x1.5&refinements=p_85%3A2470955011)
 
 
 ## Line Sensors
