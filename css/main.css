@@ -64,8 +64,7 @@ p {
 #social-media {
     display: none;
     float: left;
-    margin: 0px 10px;
-    padding-right: 25px;
+    margin: 0;
 }
 
 #social-media > li {
@@ -97,7 +96,7 @@ p {
 
 #header .navbar-brand {
     height: auto;
-    padding: 0 0 0 25px;
+    padding: 0 0 0 35px;
     line-height: 40px;
 }
 
@@ -112,6 +111,7 @@ p {
 #header .logo {
     width: 80px;
     margin-top: 20px;
+    padding-right: 35px;
 }
 
 #header a:hover {
