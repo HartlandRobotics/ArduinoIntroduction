@@ -35,7 +35,7 @@ Ping sensors can tell you how far away an object is.  They send out an ultrsonic
 ![Breadboard]({{ site.baseurl }}/assets/components/breadboard.jpg)
 ![wires]({{ site.baseurl }}/assets/components/wires.jpg)
 
-Your kit includes a small breadboard.  We have several extra, larger breadboards.  We also have breadboard shields as well as solder boards for you to use.
+The breadboard and wires are used to connect all of your components together with your Arduino. You can purchase a [Breadboard](http://www.amazon.com/Veewon-SYB-170-Color-Breadboard-Circuit/dp/B00OP4FQVU?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) and [Wires](http://www.amazon.com/Kalevel%C2%AE-120pcs-Multicolored-Female-Breadboard/dp/B00M5WLZDW?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) on Amazon
 
 ## Batteries
 ![9v]({{ site.baseurl }}/assets/components/9v.jpg)
