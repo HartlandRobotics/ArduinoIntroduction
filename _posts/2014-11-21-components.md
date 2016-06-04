@@ -2,9 +2,13 @@
 layout: page
 title: "Components"
 category: ref
-date: 2014-11-21
+date: 2016-06-03
 order: 0
 ---
+
+## Arduino
+Arduino will be the microcontroller that will be controlling your robot. i
+![Arduino]({{site.baseurl }}/assets/components/boards/uno.jpg)
 
 We have a LOT of components to help you make your design a reality.  For a full list of the components we have available to you, you can see our [Lab Inventory](https://github.com/CareEvolution/nodebots-unleashed-codemash-docs/blob/master/inventory.md).  Most of these components have a nice Johnny-Five abstraction.  Some components that are particularly interesting:
 
