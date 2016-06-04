@@ -45,8 +45,11 @@ The breadboard and wires are used to connect all of your components together wit
 Your kit includes four AA batteries.  Should you spend all the energy in your battery, we have some extra batteries for you to use.  We also have several 9V batteries and clips.
 
 
-## Photosensors, Motion Sensors, Flame Sensors, Reflectance Sensors
+## Line Sensors
 ![Reflectance Array]({{ site.baseurl }}/assets/components/reflectance.jpg)
 
-We have all sorts of light-based sensors for you to work with.  Light sensors will detect ambient light.  They can also be controlled via laser pointers!  Motion sensors will detect when something is in front of it.  Flame sensors will detect flames!  Reflectance sensors will detect white vs black material.  They are great for writing line-following bots! [Johnny-Five Sensor Reference](https://github.com/rwaldron/johnny-five/wiki/Sensor), [Johnny-Five Reflectance Array Reference](https://github.com/rwaldron/johnny-five/wiki/IR.Reflect.Array)
+These sensors work by bouncing light off of a surface and seeing how
+much of the light was reflected back. This allows us to determine if the
+surface under the sensor is light or dark.
+This sensor can be purchased from [Amazon](http://www.amazon.com/C-J-Infrared-reflective-Photoelectr-TCRT5000/dp/B00XT0PBC0/ref=sr_1_2?ie=UTF8&qid=1463438548&sr=8-2&keywords=tcrt5000)
 
