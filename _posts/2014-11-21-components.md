@@ -20,7 +20,7 @@ in many different colors to personalize your bot! The LEDs that we are
 using came in a kit with some other fun parts. Available on [Amazon](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
 
 ## Motors and Wheels
-![Motor]({{ site.baseurl }}/assets/components/geared-motor.jpg)
+![Motor]({{ site.baseurl }}/assets/components/gearmotor.jpg)
 
 Motors and Wheels
 There are many places to purchase these. For this workshop, we found
