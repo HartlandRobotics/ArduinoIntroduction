@@ -6,14 +6,14 @@ date: 2016-06-03
 order: 0
 ---
 
-## Arduino
+### Arduino
 ![Arduino]({{site.baseurl }}/assets/boards/uno.JPG)
 
 Arduino will be the microcontroller that will be controlling your robot.
 
 [Purchase](http://www.amazon.com/LANMU%C2%AE-Atmega328p-Atmega16u2-Version-Arduino/dp/B00SF28U7A?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
 
-## LEDs
+### LEDs
 ![LED]({{ site.baseurl }}/assets/components/leds.jpeg)
 
 We will use LEDs to build our first simple circuit. LEDs are available
@@ -22,21 +22,21 @@ using came in a kit with some other fun parts.
 
 [Purchase](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
 
-## Motors and Wheels
+### Motors and Wheels
 ![Motor]({{ site.baseurl }}/assets/components/gearmotor.jpg)
 
 Motors and Wheels
 
 [Purchase](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536)
 
-## Ping (distance) Sensors
+### Ping (distance) Sensors
 ![Ping Sensor]({{ site.baseurl }}/assets/components/ping.jpg)
 
 Ping sensors can tell you how far away an object is.  They send out an ultrsonic pulse and measure the time it takes to receive the response.
 
 [Purchase](http://www.amazon.com/Ultrasonic-Distance-Measuring-Compatible-Duemilanove/dp/B00SXZWMCS/ref=sr_1_1?rps=1&ie=UTF8&qid=1465054973&sr=8-1&keywords=HC-SR04&refinements=p_85%3A2470955011)
 
-## Breadboards and Wires
+### Breadboards and Wires
 ![Breadboard]({{ site.baseurl }}/assets/components/breadboard.jpg)
 ![wires]({{ site.baseurl }}/assets/components/wires.jpg)
 
@@ -46,7 +46,7 @@ The breadboard and wires are used to connect all of your components together wit
 
 [Purchase Wires](http://www.amazon.com/Kalevel%C2%AE-120pcs-Multicolored-Female-Breadboard/dp/B00M5WLZDW?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
 
-## Batteries
+### Batteries
 ![9v]({{ site.baseurl }}/assets/components/9v.jpg)
 ![AA]({{ site.baseurl }}/assets/components/aa.jpg)
 ![AA clip]({{ site.baseurl }}/assets/components/aa-clip.jpg)
@@ -56,7 +56,7 @@ Your kit includes AA batteries and a 9v battery. The AA batteries will be held i
 [Purchase](http://www.amazon.com/uxcell-Switch-Battery-Holder-Leads/dp/B00P26O0K8/ref=sr_1_2?rps=1&ie=UTF8&qid=1463491924&sr=8-2&keywords=battery+case+box+holder+AA+4x1.5&refinements=p_85%3A2470955011)
 
 
-## Line Sensors
+### Line Sensors
 ![Reflectance Array]({{ site.baseurl }}/assets/components/reflectance.jpg)
 
 These sensors work by bouncing light off of a surface and seeing how
