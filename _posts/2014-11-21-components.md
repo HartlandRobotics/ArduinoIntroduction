@@ -27,7 +27,7 @@ using came in a kit with some other fun parts.
 
 Motors and Wheels
 
-[Purchase](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536) a bit cheaper.
+[Purchase](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-Wheel-DC-6V-Gear-Motor-Set-for-Arduino-/231589909536)
 
 ## Ping (distance) Sensors
 ![Ping Sensor]({{ site.baseurl }}/assets/components/ping.jpg)
