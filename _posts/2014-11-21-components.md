@@ -7,10 +7,10 @@ order: 0
 ---
 
 ## Arduino 
-Arduino will be the microcontroller that will be controlling your robot.
 ![Arduino]({{site.baseurl }}/assets/boards/uno.JPG)
 
-We have a LOT of components to help you make your design a reality.  For a full list of the components we have available to you, you can see our [Lab Inventory](https://github.com/CareEvolution/nodebots-unleashed-codemash-docs/blob/master/inventory.md).  Most of these components have a nice Johnny-Five abstraction.  Some components that are particularly interesting:
+Arduino will be the microcontroller that will be controlling your robot.
+These can be purchased on [Amazon](http://www.amazon.com/LANMU%C2%AE-Atmega328p-Atmega16u2-Version-Arduino/dp/B00SF28U7A?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
 
 ## Servos
 ![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
