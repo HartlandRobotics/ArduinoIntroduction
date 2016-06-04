@@ -12,6 +12,13 @@ order: 0
 Arduino will be the microcontroller that will be controlling your robot.
 These can be purchased on [Amazon](http://www.amazon.com/LANMU%C2%AE-Atmega328p-Atmega16u2-Version-Arduino/dp/B00SF28U7A?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
 
+## LEDs, Digit Displays, Matrix, Drivers
+![LED]({{ site.baseurl }}/assets/components/leds.jpeg)
+
+We will use LEDs to build our first simple circuit. LEDs are available
+in many different colors to personalize your bot! The LEDs that we are
+using came in a kit with some other fun parts. Available on [Amazon](http://www.amazon.com/Elego-Electronics-component-resistors-Potentiometer/dp/B01ERPXFZK?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
+
 ## Servos
 ![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
 
@@ -23,14 +30,6 @@ Servos are a specific kind of motor which includes gearing and motor control bui
 ![Motor Shield]({{ site.baseurl }}/assets/components/motorshield.jpg)
 
 There are times when you want access to a vanilla motor.  These motors are much more simple than servos -- they don't have any gears or motor control circuitry -- so they give you more control.  We have gearboxes and wheels in order to transfer the motor's drive to much higher torque.  We also have HBridges which can drive a motor and control the direction.  We also have "motor shields" which plug into your Arduino and include the circuitry necessary to drive motors. [Johnny-Five Motor Reference](https://github.com/rwaldron/johnny-five/wiki/Motor)
-
-## LEDs, Digit Displays, Matrix, Drivers
-![LED]({{ site.baseurl }}/assets/components/leds.jpeg)
-![LED RGB]({{ site.baseurl }}/assets/components/rgb.jpg)
-![7-Segment LED]({{ site.baseurl }}/assets/components/led-7.png)
-![LED Matrix]({{ site.baseurl }}/assets/components/led-matrix.jpg)
-
-Want to give visual feedback to the user?  We have hundreds of LEDs (Red, Gree, and Blue) as well as RGB units where you can set arbitrary colors.  We also have 7-segment displays.  These come in single-digit and 4x-digit packages.  You need a "driver" chip to decode these displays, which we have in the lab.  We also have several 8x8 LED arrays where you can create whatever pattern you want.  They take the same "driver" chip as the 7-segment components. [Johnny-Five LED Reference](https://github.com/rwaldron/johnny-five/wiki/Led), [Johnny-Five LED RGB Reference](https://github.com/rwaldron/johnny-five/wiki/Led-RGB), [Johnny-Five LED Digits Reference](https://github.com/rwaldron/johnny-five/wiki/Led.Digits), [Johnny-Five LED Matrix Reference](https://github.com/rwaldron/johnny-five/wiki/Led.Matrix)
 
 ## Joysticks
 ![Joystick]({{ site.baseurl }}/assets/components/joystick.jpg)
