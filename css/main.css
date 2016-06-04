@@ -1,5 +1,5 @@
-body {
-  margin-top: 95px;
+
+  margin-top: 15px;
     font-weight: 400;
     padding-top: 70px;
     padding-bottom: 30px;
@@ -75,6 +75,7 @@ p {
     background-color: transparent;
     /*color: #696969;*/
     color: white;
+    font-size: 40pt;
 }
 
 #social-media a:hover {
@@ -202,15 +203,13 @@ p {
     .intro-logo {
         width: auto;
     }
-
-    .sidebar {
 }
 
 
 @media (min-width: 768px) {
     .sidebar {
         position: fixed;
-        top: 145px;
+        top: 51px;
         bottom: 0;
         left: 0;
         z-index: 1000;

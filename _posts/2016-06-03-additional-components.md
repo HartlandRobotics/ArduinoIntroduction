@@ -9,13 +9,12 @@ order: 3
 ## Servos
 ![Servos]({{ site.baseurl }}/assets/components/servo.jpg)
 
-Servos are a specific kind of motor which includes gearing and motor control built into the package. The servos you received in your kit are "continuous rotation" servos.  This means that they can rotate clockwise (`servo.cw()`) and counterclockwise (`servo.ccw()`) indefinately.  They work well for rotating the wheels of your bot.  You also have access to some standard servos which rotate (`servo.to(degs)`) to a specific value.  We have several standard-sized servos as well as several micro-sized servos.  [Johnny-Five Servo Reference](https://github.com/rwaldron/johnny-five/wiki/Servo)
-
+Servos are a specific kind of motor which includes gearing and motor control built into the package.  They work well for rotating to a specific position. This would be useful for controlling thing like robotic arms or claws.
 
 ## Motor Shields
 ![Motor Shield]({{ site.baseurl }}/assets/components/motorshield.jpg)
 
-We also have "motor shields" which plug into your Arduino and include the circuitry necessary to drive motors. [Johnny-Five Motor Reference](https://github.com/rwaldron/johnny-five/wiki/Motor)
+Motor shields are an alternative to motor controllers that can help protect the Arduino in the event of failure.
 
 ## Joysticks
 ![Joystick]({{ site.baseurl }}/assets/components/joystick.jpg)
