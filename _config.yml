@@ -13,10 +13,14 @@ codeurl: 'https://github.com/HartlandRobotics/ArduinoIntroduction'
 
 # Default categories (in order) to appear in the navigation
 sections: [
+    ['about', 'About Us'],
+    ['tutorial', 'Tutorial'],
+    ['ref', 'Reference'],
+
     ['doc', 'Documentation'],
     ['act', 'Activities'],
     ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
+    #['ref', 'Reference'],
     ['dev', 'Developers'],
     ['post', 'Posts']
 ]
