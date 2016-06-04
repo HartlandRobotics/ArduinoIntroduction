@@ -149,9 +149,8 @@ p {
 /*    font-size: 1.1em;*/
     font-weight: bold;
 }
-
-.intro p:first-of-type {
-    text-align: center;
+.intro {
+  margin-top: 20px;
 }
 
 .intro-logo {
