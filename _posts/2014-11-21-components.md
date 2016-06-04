@@ -12,7 +12,7 @@ order: 0
 Arduino will be the microcontroller that will be controlling your robot.
 These can be purchased on [Amazon](http://www.amazon.com/LANMU%C2%AE-Atmega328p-Atmega16u2-Version-Arduino/dp/B00SF28U7A?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
 
-## LEDs, Digit Displays, Matrix, Drivers
+## LEDs
 ![LED]({{ site.baseurl }}/assets/components/leds.jpeg)
 
 We will use LEDs to build our first simple circuit. LEDs are available
@@ -29,7 +29,7 @@ them on [ebay](http://www.ebay.com/itm/4-Pcs-Smart-Car-Robot-Plastic-Tire-Tyre-W
 ## Ping (distance) Sensors
 ![Ping Sensor]({{ site.baseurl }}/assets/components/ping.jpg)
 
-Ping sensors can tell you how far away an object is.  They send out an ultrsonic pulse and measure the time it takes to receive the response.  [Johnny-Five Ping Reference](https://github.com/rwaldron/johnny-five/wiki/Ping)
+Ping sensors can tell you how far away an object is.  They send out an ultrsonic pulse and measure the time it takes to receive the response.  These can be purchased on [Amazon](http://www.amazon.com/Ultrasonic-Distance-Measuring-Compatible-Duemilanove/dp/B00SXZWMCS/ref=sr_1_1?rps=1&ie=UTF8&qid=1465054973&sr=8-1&keywords=HC-SR04&refinements=p_85%3A2470955011)
 
 ## Breadboards and Wires
 ![Breadboard]({{ site.baseurl }}/assets/components/breadboard.jpg)
