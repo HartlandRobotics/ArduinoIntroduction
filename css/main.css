@@ -44,7 +44,7 @@ p {
 }
 
 .nav-sidebar > li > a:hover {
-    border-right: 5px #f7df1e solid;
+    border-right: 5px #FABe20 solid;
 }
 
 .navbar-nav > li > a {
@@ -78,7 +78,7 @@ p {
 }
 
 #social-media a:hover {
-    background-color: #f7ef1e;
+    /* background-color: #f7ef1e; */
 }
 
 
