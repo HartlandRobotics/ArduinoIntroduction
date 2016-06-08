@@ -16,7 +16,7 @@ status when it is plugged into the computer running the IDE.
 
 The Arduino IDE can be downloaded from [the Arduino Software page](https://www.arduino.cc/en/Main/Software)
 
-There is a section there for installations on
+There is a section on that page for installations on
 
 * [Windows](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-windows.exe)
 * [Windows without Admin priviliges](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-windows.zip)
