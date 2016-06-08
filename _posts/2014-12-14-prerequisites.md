@@ -7,7 +7,7 @@ order: 0
 ---
 
 
-## Arduino IDE
+### Arduino IDE
 
 IDE is an acronym for Integrated Development Environment. Sounds pretty
 impressive. All that really means is that it is the tool that we will
