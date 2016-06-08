@@ -1,33 +1,29 @@
-var five = require("johnny-five");
-var Particle = require("particle-io");
+/*
+  Blink
+  Turns on an LED on for one second, then off for one second, repeatedly.
 
-var board = new five.Board({
-  io: new Particle({
-    token: '7ae40abd0f7c272888ca95b6740667febd1a29c8',
-    deviceName: 'YOUR_DEVICE_NAME'
-  })
-});
+  Most Arduinos have an on-board LED you can control. On the Uno and
+  Leonardo, it is attached to digital pin 13. If you're unsure what
+  pin the on-board LED is connected to on your Arduino model, check
+  the documentation at http://arduino.cc
 
-board.on("ready", function() {
+  This example code is in the public domain.
 
-  var input = new five.Sensor("A0");
-  var led = new five.Led(11);
-  var initialValue;
+  modified 8 May 2014
+  by Scott Fitzgerald
+ */
 
-  input.on("data", function() {
-    if(initialValue === undefined) {
-      initialValue = this.value;
-    }
 
-    setLed(this.value);
-  });
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin 13 as an output.
+  pinMode(13, OUTPUT);
+}
 
-  function setLed(value) {
-    // sway +/- points to control the LED
-    var sway = 50;
-    var brightness = five.Fn.map(value, initialValue - sway, initialValue + sway, 0, 255);
-
-    console.log("setting LED to " + brightness);
-    led.brightness(brightness);
-  }
-});
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);              // wait for a second
+  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);              // wait for a second
+}
