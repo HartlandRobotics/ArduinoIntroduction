@@ -35,7 +35,7 @@ In this example, we'll just get an LED to blink.
 <a name="ledblink"></a>
 **LED Blink Code:**
 
-<script src="http://gist-it.appspot.com/github/CareEvolution/nodebots-unleashed-codemash-docs/blob/master/examples/strobe.js"></script>
+<script src="http://gist-it.appspot.com/github/HartlandRobotics/ArduinoIntroduction/blob/master/examples/led_control.js"></script>
 
 **LED Blink Wiring:**
 
