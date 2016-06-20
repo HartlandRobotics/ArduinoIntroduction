@@ -7,28 +7,25 @@ date: 2016-06-19
 order: 3
 ---
 
-In this exercise we will
-
-<script src="https://gist.github.com/drewburton/311a32caa0e78c797e3a2c56d6f77798.js"></script>
+In this exercise we will find out how far an object is from our circuit.
 
 #### Open the Arduino IDE
 
-The Arduino IDE comes with some code sample files that will help you get
-started quickly. We are going to open one of these files and test our
-connection to the Arduino.
-
-Navigate the menus to locate the Blink sample
+Instead of using a built in sample, we are going to create our own. Navigate the menu to create a new file.
 
 0. File
-0. Examples
-0. Basics
-0. Blink
+0. New
 
-**LED Blink Code:**
-Once you have selected the Blink sample, you should see the following
-code in your Arduino IDE
-<script src="http://gist-it.appspot.com/github/HartlandRobotics/ArduinoIntroduction/blob/master/examples/led_control.js"></script>
+Rename the file to something more meaningful than sketch. We suggest using distanceSensor.
 
+0. File
+0. Save as
+0. Change the file name to distanceSensor
+
+**Distance Sensor Code:**
+Once you have the blank file, update your IDE to contain the following code.
+
+<script src="https://gist.github.com/drewburton/311a32caa0e78c797e3a2c56d6f77798.js"></script>
 
 #### Plug in the Arduino
 
