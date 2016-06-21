@@ -45,6 +45,9 @@ Once you have the blank file, update your IDE to contain the following code.
     breadboard that contains the GND pin on the distance sensor.
     * Your circuit should look like this.
 
+    ![DistanceSensor2]({{site.baseurl}}/assets/part3/distance-sensor-02.jpg)
+
+
 0. Include an LED in the circuit
     * Look at your LED. Observe that one leg is longer than the other. The long leg is the positive side.
     * Place the positive leg of the LED in the same row as the pin 13 wire from the arduino.
