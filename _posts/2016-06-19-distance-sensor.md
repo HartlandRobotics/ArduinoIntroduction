@@ -27,12 +27,31 @@ Once you have the blank file, update your IDE to contain the following code.
 
 <script src="https://gist.github.com/drewburton/311a32caa0e78c797e3a2c56d6f77798.js"></script>
 
-#### Plug in the Arduino
+#### Build the Circuit
 
-0. Attach the USB cable to the computer
-0. Attach the USB cable to the Arduino.
-  * Be careful attaching this end. Make sure it is right side up and do not force the connection
-0. Press the Verify button in the Arduino IDE (it looks like a checkmark)
-0. Press the Download button in the Arduino IDE (it looks like an arrow facing right)
-0. The Arduino will indicate that it is updating
-0. Your code will execute blinking a single LED that is built into the Arduino board
+0. Add distance sensor to the breadboard
+    * Make sure the pins on the distance sensor are in different rows on
+    the breadboard
+    * You will probably want to place this in the center of the
+    breadboard.
+   * Your circuit should look like this.
+
+    ![DistanceSensor1]({{site.baseurl}}/assets/part3/distance-sensor-01.jpg)
+
+0. Power the circuit from the arduino.
+    * Place a wire from the 5V pin on the arduino to the row on the
+    breadboard that contains the Vcc pin on the distance sensor
+    * Place a wire from the GND pin on the arduino to the row on the
+    breadboard that contains the GND pin on the distance sensor.
+    * Your circuit should look like this.
+
+0. Include an LED in the circuit
+    * Look at your LED. Observe that one leg is longer than the other. The long leg is the positive side.
+    * Place the positive leg of the LED in the same row as the pin 13 wire from the arduino.
+    * Use the resistor to connect the GND from the arduino and the short leg of the LED.
+    * Your circuit should look like this.
+
+    ![Circuit2]({{site.baseurl}}/assets/part1/add-led.jpg)
+
+
+
