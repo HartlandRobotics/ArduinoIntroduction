@@ -3,7 +3,7 @@ layout: page
 title: "Building the Reference Kit"
 category: tut
 date: 2014-11-21
-order: 3
+order: 15
 ---
 The kit you were given includes the following components:
 
