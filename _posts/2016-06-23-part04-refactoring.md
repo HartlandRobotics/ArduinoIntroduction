@@ -28,7 +28,7 @@ function with a call to your new function: initializeDistanceSensor.
 
 When complete, your code should look like:
 
-<script src="https://gist.github.com/dennisburton/218c2e76df71e10322a80ede1188f14a.js"></script>
+<script src="https://gist.github.com/dennisburton/c342803dfe88c3ad7ee87c5117960018.js"></script>
 
 
 #### Refactor the distance detection code
