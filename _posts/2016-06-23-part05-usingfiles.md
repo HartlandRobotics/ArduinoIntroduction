@@ -29,34 +29,19 @@ The code in the *distanceSensor* tab should look like:
 
 <script src="https://gist.github.com/dennisburton/ef9a3c1904f71b7e56ff42efada17464.js"></script>
 
+#### Clean up the robot file
 
+0. click on the *robot* tab
+0. remove the functions _initializeDistanceSensor_ and _findDistance_
 
-First up, place the code that initialized our configuration into a
-function. Pull out the two lines that set the pin mode and place them in
-a function called initializeDistanceSensor. This function will need to
-have two parameters. The first will be an integer called triggerPin and
-the second will be an integer called echoPin.
+The _sketch_ for our robot can use code from any tab that is included
+in the sketch. This means that even though the functions are no longer
+in *robot* they are still in the sketch for us to use.
 
-Once that function has been created replace the two lines in the setup
-function with a call to your new function: initializeDistanceSensor.
+Your robot sketch code should now look like this:
 
-When complete, your code should look like:
+<script src="https://gist.github.com/dennisburton/3f5fe580a82c79f9d1fe5b1ea8379bbf.js"></script>
 
-<script src="https://gist.github.com/dennisburton/c342803dfe88c3ad7ee87c5117960018.js"></script>
-
-
-#### Refactor the distance detection code
-
-Now, place the code that sent out the soundwave, listened for a
-response, and calculated the distance in a function called findDistance.
-This function will also need to have the two parameters for the trigger
-and echo pins. A new feature of this function will be that it will
-return the distance.
-
-Once that function has been created replace the lines of code in the
-loop function with the call to your new function: findDistance.
-
-When complete, your code should look like:
-
-<script src="https://gist.github.com/dennisburton/e7050e8678a32139363da8882d1d654f.js"></script>
-
+This makes things nice and small in our file that controls the robot. If
+you wanted to add a couple more distance sensors, it would now be very
+easy to do.
