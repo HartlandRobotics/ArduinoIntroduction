@@ -19,7 +19,6 @@ The Arduino IDE can be downloaded from [the Arduino Software page](https://www.a
 There is a section on that page for installations on
 
 * [Windows](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-windows.exe)
-* [Windows without Admin priviliges](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-windows.zip)
 * [OSX 10.7"Lion" or newer](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-macosx.zip)
 * [Linux 32 bit](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-linux32.tar.xz)
 * [Linux 64 bit](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-linux64.tar.xz)
@@ -27,5 +26,3 @@ There is a section on that page for installations on
 Choose the correct one for the operationg system that your computer is
 running. If you have questions, ask one of the helpful robotics team
 members.
-
-
