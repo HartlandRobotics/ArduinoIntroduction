@@ -23,6 +23,6 @@ There is a section on that page for installations on
 * [Linux 32 bit](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-linux32.tar.xz)
 * [Linux 64 bit](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-linux64.tar.xz)
 
-Choose the correct one for the operationg system that your computer is
+Choose the correct one for the operating system that your computer is
 running. If you have questions, ask one of the helpful robotics team
 members.
