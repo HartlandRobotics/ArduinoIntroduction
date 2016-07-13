@@ -16,7 +16,7 @@ Instead of using a built in sample, we are going to create our own. Navigate the
 0. File
 0. New
 
-Rename the file to something more meaningful than sketch. We suggest using distanceSensor.
+Rename the file to something more meaningful than sketch. We suggest using distance.
 
 0. File
 0. Save as
