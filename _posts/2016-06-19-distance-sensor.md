@@ -20,7 +20,7 @@ Rename the file to something more meaningful than sketch. We suggest using dista
 
 0. File
 0. Save as
-0. Change the file name to distanceSensor
+0. Change the file name to distance
 
 **Distance Sensor Code:**
 Once you have the blank file, update your IDE to contain the following code.
