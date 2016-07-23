@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 7: Refactoring LineSensor Code"
+title: "Part 7: Refactoring Line Sensor Code"
 class: getting-started
 category: tut
 date: 2016-07-22
