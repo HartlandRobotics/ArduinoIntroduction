@@ -4,7 +4,7 @@ title: "Part 7: Refactoring LineSensor Code"
 class: getting-started
 category: tut
 date: 2016-07-22
-order: 4
+order: 7
 ---
 
 In this exercise we will organize your code to be easier to read and
