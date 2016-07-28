@@ -29,3 +29,7 @@ The code in the *motorController* tab should look like:
 
 <script src="https://gist.github.com/dennisburton/b576b8af157dd75cbb7375f0c44c1660.js"></script>
 
+The code in the motor tab should look like:
+
+<script src="https://gist.github.com/dennisburton/a2bd6a935b3d2d389dc164cefc22e793.js"></script>
+
