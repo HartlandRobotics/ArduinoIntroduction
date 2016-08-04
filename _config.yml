@@ -16,7 +16,7 @@ sections: [
     ['about', 'About Us'],
     ['ref', 'Reference'],
     ['tut', 'Tutorial'],
-    ['act', 'Activities']
+    ['line', 'Line Follower']
     #['tut', 'Tutorial'],
     #['ref', 'Reference'],
     #['dev', 'Developers'],
