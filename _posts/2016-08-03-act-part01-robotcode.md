@@ -46,15 +46,26 @@ Rename the file to something more meaningful than sketch. We suggest using robot
 the previous tutorial
 
 #### Adding existing line sensor code
+
 0. In the Sketch menu item select Add File...
 0. Open the line directory
 0. Select line_sensor.ino
 
 #### Adding existing motor controller code
+
 0. In the Sketch menu item select Add File...
 0. Open the motor directory
 0. Select the motor_controller.ino
 
+#### Verify your work
+
+After importing all of the files from your past projects, your Arduino
+IDE shoud have 4 tabs: robot, distance_sensor, line_sensor,
+motor_controller
+
+Your IDE shoud look something like this:
+
+![SketchTabs]({{ site.baseurl }}/assets/linefollower/SketchTabs.png)
 
 
 
