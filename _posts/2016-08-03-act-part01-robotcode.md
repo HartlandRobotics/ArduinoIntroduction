@@ -17,7 +17,7 @@ called Arduino. From there, you can see the projects created during the
 tutorial section for each of the robot components. It should look
 something like this:
 
-![ArduinoProjects](/assets/linefollower/ArduinoProjects.png)
+![ArduinoProjects]({{ site.baseurl }}/assets/linefollower/ArduinoProjects.png)
 
 The goal of this first section is to make sure that you know where all
 of these projects are so that we can import them later
