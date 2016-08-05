@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Part 1: Robot Code"
+title: "Part 3: Robot Code"
 class: getting-started
 category: line
 date: 2016-07-28
-order: 0
+order: 2
 ---
 
 In this section we will update our robot code to use the distance
