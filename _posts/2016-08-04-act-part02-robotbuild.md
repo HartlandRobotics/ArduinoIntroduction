@@ -36,4 +36,5 @@ Attach the wires for the distance sensor. We set ours up to use pins 2
 and 3 just like we did during the lesson the first time.
 
 
+![AttachDistanceSensorWires]({{ site.baseurl }}/assets/linefollower/c06-attach-distance-wires.jpg)
 
