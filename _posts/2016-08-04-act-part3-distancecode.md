@@ -76,7 +76,6 @@ motor_controller
 
 Your IDE shoud look something like this:
 
-![SketchTabs]({{ site.baseurl }}/assets/linefollower/SketchTabs.png)
-
+<script src="https://gist.github.com/dennisburton/67b5fedb6566300d536028d3fe23acd8.js"></script>
 
 
