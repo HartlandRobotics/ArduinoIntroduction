@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 5: Robot Code"
+title: "Part 5: Code Line Sensor"
 class: getting-started
 category: line
 date: 2016-07-28
