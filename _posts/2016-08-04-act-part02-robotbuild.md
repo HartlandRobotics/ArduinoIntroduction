@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 2: Robot Building"
+title: "Part 2: Build Distance Sensor"
 class: getting-started
 category: line
 date: 2016-08-04

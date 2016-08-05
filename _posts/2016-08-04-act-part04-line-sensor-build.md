@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 4: Robot Building"
+title: "Part 4: Building Line Sensor"
 class: getting-started
 category: line
 date: 2016-08-04
