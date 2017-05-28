@@ -15,7 +15,7 @@ codeurl: 'https://github.com/HartlandRobotics/ArduinoIntroduction'
 sections: [
     ['about', 'About Us'],
     ['ref', 'Reference'],
-    ['start', 'Getting Started']
+    ['start', 'Getting Started'],
     ['tut', 'Tutorial'],
     ['line', 'Line Follower']
     #['tut', 'Tutorial'],
