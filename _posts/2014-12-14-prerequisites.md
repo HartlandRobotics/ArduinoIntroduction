@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Prerequisites"
-category: tut
+category: start
 date: 2016-06-07
 order: 0
 ---
