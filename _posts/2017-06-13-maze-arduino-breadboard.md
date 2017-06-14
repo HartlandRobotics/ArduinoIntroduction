@@ -7,6 +7,8 @@ date: 2016-06-19
 order: 1
 ---
 
+#### Chassis Orientation
+
 The first step in building your robot is to understand the orientation of the chassis.
 
 * The edge of the chassis that is tapered is the front of the robot.
@@ -14,10 +16,24 @@ The first step in building your robot is to understand the orientation of the ch
 * Once you have the front and rear positioned correctly, the hole near the front of the robot should be offset to the left. You might have to flip over the chassis to get the orientation correct.
 
 Set the chassis in front of you so that it looks like this:
-    ![DistanceSensor1]({{site.baseurl}}/assets/mazerunner/orientation.jpg)
+    ![Orientation]({{site.baseurl}}/assets/mazerunner/orientation.jpg)
 
 
+#### Attach the Arduino
 
+Locate the Arduino in your kit.
+Turn the Arduino so that the power and USB ports are facing the rear of the robot.
+Attach the Arduino to the chassis making sure not to cover up any of the holes that will be used later.
+
+    ![AttachArduino]({{site.baseurl}}/assets/mazerunner/attach_arduino.jpg)
+
+#### Attach the Breadboard
+
+Locate the breadboard in your kit.
+Attach it next to the Arduino making sure not to cover up any of the holes in the chassis.
+
+    ![AttachBreadboard]({{site.baseurl}}/assets/mazerunner/attach_breadboard.jpg)
+    
 The first step in building your robot is to locate the top of the chassis. When the top of the cassis is facing up, the 
 In this exercise we will find out how far an object is from our circuit.
 
