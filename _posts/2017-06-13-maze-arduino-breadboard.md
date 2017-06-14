@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Part 1: Attaching Arduino to Chassis"
-class: getting-started
+class: maze-runner
 category: maze
 date: 2016-06-19
 order: 1

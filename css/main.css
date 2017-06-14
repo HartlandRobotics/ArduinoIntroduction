@@ -184,6 +184,10 @@ p {
   width: 500px;
 }
 
+.maze-runner img {
+    width: 400px;
+}
+
 .hack-act p:last-of-type {
   text-align: center;
 }
