@@ -1,12 +1,22 @@
 ---
 layout: page
-title: "Part 1: Working With Distance Sensor"
+title: "Part 1: Attaching Arduino to Chassis"
 class: getting-started
 category: maze
 date: 2016-06-19
 order: 1
 ---
 
+The first step in building your robot is to understand the orientation of the chassis. The edge of the chassis that is tapered is the front of the robot.
+The edge of the chassis that has two notches is the rear of the robot.
+Once you have the front and rear positioned correctly, the hole near the front of the robot should be offset to the left. You might have to flip over the chassis to get the orientation correct.
+
+Set the chassis in front of you so that it looks like this:
+    ![DistanceSensor1]({{site.baseurl}}/assets/mazerunner/orientation.jpg)
+
+
+
+The first step in building your robot is to locate the top of the chassis. When the top of the cassis is facing up, the 
 In this exercise we will find out how far an object is from our circuit.
 
 #### Open the Arduino IDE
