@@ -1,13 +1,22 @@
 ---
 layout: page
-title: "Part 1: Attaching Arduino to Chassis"
+title: "Part 2: Attaching Battery Pack"
 class: maze-runner
 category: maze
 date: 2016-06-19
-order: 0
+order: 1
 ---
 
-#### Chassis Orientation
+#### Battery Pack
+
+Take a look at your battery pack.
+* Locate the side opposite the on/off switch. This side will attach to the robot.
+* Make sure the switch is in the off position
+* Slide open the battery pack and insert the batteries.
+* Close the pack back up and attach it to the chassis. Make sure the wires are facing the rear of the robot when you attach them.
+* Route the wires through one of the two holes in the chassis
+ 
+* 
 
 The first step in building your robot is to understand the orientation of the chassis.
 

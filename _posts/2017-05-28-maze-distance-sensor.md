@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Part 1: Working With Distance Sensor"
+title: "Part N: Working With Distance Sensor"
 class: getting-started
 category: maze
 date: 2016-06-19
-order: 1
+order: 10
+
 ---
 
 In this exercise we will find out how far an object is from our circuit.
