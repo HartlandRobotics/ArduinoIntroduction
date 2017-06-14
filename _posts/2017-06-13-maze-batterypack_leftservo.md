@@ -19,11 +19,13 @@ Take a look at your battery pack.
     * Make sure that the on off switch is not not facing the robot. You will need to be able to turn the robot on and off.
     * Make sure the wires are facing the rear of the robot when you attach them.
     * Make sure you do not cover any of the access holes in the chassis
-    ![InsertBatteries]({{site.baseurl}}/assets/mazerunner/baterrypack_batteries.jpg)
+    ![AttachToChassis]({{site.baseurl}}/assets/mazerunner/baterrypack_chassis.jpg)
 * Route the wires through one of the two holes in the chassis
+    ![RouteWires]({{site.baseurl}}/assets/mazerunner/baterrypack_routewires.jpg)
 * Turn over the robot so you can see the top
 * Place the red and back wires in the breadboard in *different* rows
     * If you are unsure about where to place the wires, make sure to ask on of the mentors. Plugging in the battery pack to the wrong location can damage your robot. Make sure this is absolutely correct.
+    ![AttachToBreadboard]({{site.baseurl}}/assets/mazerunner/baterrypack_breadboard.jpg)
 
 The first step in building your robot is to understand the orientation of the chassis.
 
