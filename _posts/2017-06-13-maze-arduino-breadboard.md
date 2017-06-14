@@ -24,14 +24,12 @@ Set the chassis in front of you so that it looks like this:
 Locate the Arduino in your kit.
 Turn the Arduino so that the power and USB ports are facing the rear of the robot.
 Attach the Arduino to the chassis making sure not to cover up any of the holes that will be used later.
-
     ![AttachArduino]({{site.baseurl}}/assets/mazerunner/attach_arduino.jpg)
 
 #### Attach the Breadboard
 
 Locate the breadboard in your kit.
 Attach it next to the Arduino making sure not to cover up any of the holes in the chassis.
-
     ![AttachBreadboard]({{site.baseurl}}/assets/mazerunner/attach_breadboard.jpg)
     
 The first step in building your robot is to locate the top of the chassis. When the top of the cassis is facing up, the 
