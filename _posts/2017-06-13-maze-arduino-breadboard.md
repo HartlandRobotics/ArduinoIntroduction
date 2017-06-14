@@ -9,9 +9,9 @@ order: 1
 
 The first step in building your robot is to understand the orientation of the chassis.
 
-*. The edge of the chassis that is tapered is the front of the robot.
-*. The edge of the chassis that has two notches is the rear of the robot.
-*. Once you have the front and rear positioned correctly, the hole near the front of the robot should be offset to the left. You might have to flip over the chassis to get the orientation correct.
+* The edge of the chassis that is tapered is the front of the robot.
+* The edge of the chassis that has two notches is the rear of the robot.
+* Once you have the front and rear positioned correctly, the hole near the front of the robot should be offset to the left. You might have to flip over the chassis to get the orientation correct.
 
 Set the chassis in front of you so that it looks like this:
     ![DistanceSensor1]({{site.baseurl}}/assets/mazerunner/orientation.jpg)
