@@ -28,35 +28,33 @@ Once you have the blank file, update your IDE to contain the following code.
 
 <script src="https://gist.github.com/dennisburton/ad20d12bac85344132cbdc0997961926.js"></script>
 
-#### Build the Circuit
 
-0. Add distance sensor to the breadboard
-    * Make sure the pins on the distance sensor are in different rows on
-    the breadboard
-    * You will probably want to place this in the center of the
-    breadboard.
-   * Your circuit should look like this.
+#### Create a tab for the chassis
 
-    ![DistanceSensor1]({{site.baseurl}}/assets/part3/distance-sensor-01.jpg)
+0. Press the Sketch Action menu button. This is the down arrow located
+in the upper right corner of the arduino IDE.
+0. Select the New Tab option
+0. At the bottom of the screen, you are being asked for a name for your
+new tab. Enter chassis and press the OK button.
 
-0. Power the circuit from the arduino.
-    * Place a wire from the 5V pin on the arduino to the row on the
-    breadboard that contains the Vcc pin on the distance sensor
-    * Place a wire from the GND pin on the arduino to the row on the
-    breadboard that contains the GND pin on the distance sensor.
-    * Your circuit should look like this.
+#### Drive the left servo
 
-    ![DistanceSensor2]({{site.baseurl}}/assets/part3/distance-sensor-02.jpg)
+Inside the chassis tab, you should have the following code. We will discuss this code in depth in class. Make sure to pay attention. When it comes to adding the right side servo, you will need to know how to modify it yourself.
 
-0. Connect the trigger and echo pins to the arduino.
-    * Place a wire from pin 2 on the arduino to the row on the
-    breadboard that contains the trig pin on the distance sensor.
-    * Place a wire from pin 3 on the arduino to the row on the
-    breadboard that contains the echo pin on the distance sensor.
-    * Your circuit should look like this.
+<script src="https://gist.github.com/dennisburton/e913fd590993688e3e8c59200681f033.js"></script>
+
+#### Update the mazerunner
+
+Now that the chassis code file is in place, we need to update the mazerunner tab to use it. 
+
+0. Add a call to chassisSetup in the setup function
+<script src="https://gist.github.com/dennisburton/1b865ea78c66b7803f1f3824fb59475e.js"></script>
+0. Add a call to driveForward in the loop function
+<script src="https://gist.github.com/dennisburton/2114ddda2615a988b7a6d94dbf0a7b5b.js"></script>
 
 
-    ![DistanceSensor3]({{site.baseurl}}/assets/part3/distance-sensor-03.jpg)
+#### Testing
 
+Compile and upload your current sketch to the Arduino to make sure it is working correctly. You may want to attach one of the servo horns from the small bag that came with your servo so you can see the direction it is spinning better
 
 
