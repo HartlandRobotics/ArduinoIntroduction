@@ -14,6 +14,7 @@ Now that we have two drive motors on the robot, we would like to do some test dr
 
 * Locate the roller caster in your kit
 * Attach the roller caster to the bottom of the robot in the front. Make sure that the access holes are not covered up
+![Caster]({{site.baseurl}}/assets/mazerunner/caster_attach.jpg)
 
 #### Attach the Rear Wheels
 
@@ -38,5 +39,9 @@ When complete your loop method should look like this:
 #### Testing
 
 Compile and upload your current sketch to the Arduino to make sure it is working correctly. Your robot should now drive forward and backward after deploying
+
+** This means that your robot will be moving as soon as the code has deployed to the Arduino. **
+
+Make sure you are prepared to keep your robot from falling off of the table.
 
 
