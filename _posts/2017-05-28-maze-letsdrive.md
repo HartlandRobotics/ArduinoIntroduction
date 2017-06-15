@@ -14,6 +14,7 @@ Now that we have two drive motors on the robot, we would like to do some test dr
 
 * Locate the roller caster in your kit
 * Attach the roller caster to the bottom of the robot in the front. Make sure that the access holes are not covered up
+
 ![Caster]({{site.baseurl}}/assets/mazerunner/caster_attach.jpg)
 
 #### Attach the Rear Wheels
