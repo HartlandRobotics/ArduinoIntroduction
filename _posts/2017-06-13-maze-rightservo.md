@@ -35,3 +35,6 @@ If you take a look at the chassis tab in the Arduino IDE, you will see many item
 * Setup will need to set up both wheels
 * Each of the drive methods will need to drive both wheels
 
+#### Testing
+
+Compile and upload your current sketch to the Arduino to make sure it is working correctly. You want to make sure that both sides are going forward as expected.
