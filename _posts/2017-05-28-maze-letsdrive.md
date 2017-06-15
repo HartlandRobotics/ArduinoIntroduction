@@ -67,7 +67,7 @@ Ok, so driving forward and back is not all that interesting. But, we had to get 
 
 #### Your Turn
 
-You see what I did there. Next up
+You see what I did there. Next up, left turns. This time, you determine what the code should look like based on the right turn code. If you need help, be sure to ask for assistance.
 
 * Make a method in the chassis tab to turn left. Note that you should be able to reuse the variable declared for turnTime
 * Update your loop code to test it
