@@ -34,6 +34,7 @@ Next we will add our first drive servo. This will be the servo that powers the l
 * Turn over the robot so that you can see the top of the chassis
 * Place one of the 3 wire header pins in the breadboard making sure it is not in the same row as your battery pack
 
+
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_headerpins.jpg)
 
 * Attach the servo wire to to the header pins
