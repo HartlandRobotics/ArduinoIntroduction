@@ -29,7 +29,7 @@ We now have a chassis that can drive around a maze. But, it needs some guidance.
 
 * Connect the row with the brown wire to the row with the ground connections
 * Connect the row with the red wire to the row with the power connections
-* Connect the row with the orange wire to pin 3 on the Arduino
+* Connect the row with the orange wire to pin 6 on the Arduino
 
 #### Controlling the Servo with code
 

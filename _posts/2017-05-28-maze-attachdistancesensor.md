@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 8: Distance Sensor"
+title: "Part 8: Attach Distance Sensor"
 class: maze-runner
 category: maze
 date: 2016-06-19
