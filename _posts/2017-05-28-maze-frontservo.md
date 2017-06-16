@@ -35,72 +35,28 @@ in the upper right corner of the arduino IDE.
 0. At the bottom of the screen, you are being asked for a name for your
 new tab. Enter wallfinder and press the OK button.
 
+##### Setup the rotator
+
+* Declare a Servo called rotator
+* Create a variable to hold which pin the rotator will communicate with the Arduino through
+* Create a setup function
+    * Attach the servo to the specified pin
+    * Center the servo so that we have a known position to call forward
+
+<script src="https://gist.github.com/dennisburton/33a6e9736d692ba49426b397a4d9d5c7.js"></script>
 
 
+* Add a call to you setup function inside of the mazerunner setup method
 
-Now that we have two drive motors on the robot, we would like to do some test driving. You may have noticed however that we have no wheels or any way to keep the front of the robot off of the floor. Let's go fix that now
-
-#### Attach Front roller
-
-* Locate the roller caster in your kit
-* Attach the roller caster to the bottom of the robot in the front. Make sure that the access holes are not covered up
-
-![Caster]({{site.baseurl}}/assets/mazerunner/caster_attach.jpg)
-
-#### Attach the Rear Wheels
-
-* Locate the large round servo horn in each of the small bags that came with your servos
-* Locate the wheel cap we will use in your kit
-* You should be able to press the servo horn into the center of the wheel cap. If you are having trouble with this, ask for assistance
-
-![WheelCap]({{site.baseurl}}/assets/mazerunner/wheelcap.jpg)
-
-* Attach the each wheel to the servo using the small black phillips (+) head screw that is in the small bag that came with your servos
-
-#### Update the robot code
-
-* Inside of the mazerunner tab update the code in the loop method to
-    0. driveForward
-    0. wait 2 seconds
-    0. driveBack
-    0. wait 2 seconds
-
-When complete your loop method should look like this:
-
-<script src="https://gist.github.com/dennisburton/957e0398c008c71855ed94a80167c292.js"></script>
+<script src="https://gist.github.com/dennisburton/5caa08d6462ac2cbae5282fe7b5b73e7.js"></script>
 
 
 #### Testing
 
-Compile and upload your current sketch to the Arduino to make sure it is working correctly. Your robot should now drive forward and backward after deploying
+Right now, the code inside of loop in the mazerunner tab is set up to test the chassis. Now, all you need is the servo initialization to take place so that the rotator will be positioned correctly
 
-** This means that your robot will be moving as soon as the code has deployed to the Arduino. **
+* Remove the code from the loop method
 
-Make sure you are prepared to keep your robot from falling off of the table.
+<script src="https://gist.github.com/dennisburton/c2bf3732c38482466d5bda1a7d1cfd91.js"></script>
 
-
-#### Less Boring, Please
-
-Ok, so driving forward and back is not all that interesting. But, we had to get the simple things working before we could do more interesting things. Now we will at a method to turn the robot.
-
-* Add a method in the chassis tab called driveTurnRight
-* In this method, we will need to make the left wheel go forward and the right wheel back
-* We will pick an amount of time that we think it will take to turn. You might have to adjust this for your robot. Really, every robot is different
-
-
-<script src="https://gist.github.com/dennisburton/a8117494673a13bc8767b286a0d6107d.js"></script>
-
-* Update the code in the loop method on the mazerunner tab to
-    * driveForward
-    * wait 2 seconds
-    * turn right
-
-<script src="https://gist.github.com/dennisburton/e3ddfe3732a3b5496631b81b50841d0e.js"></script>
-
-
-#### Your Turn
-
-You see what I did there. Next up, left turns. This time, you determine what the code should look like based on the right turn code. If you need help, be sure to ask for assistance.
-
-* Make a method in the chassis tab to turn left. Note that you should be able to reuse the variable declared for turnTime
-* Update your loop code to test it
+* Compile and deploy to the Arduino. This will position the servo where we need it for the next exercise.
