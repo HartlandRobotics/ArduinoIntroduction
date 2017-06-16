@@ -27,7 +27,7 @@ Take a look at your battery pack.
 
 * Turn over the robot so you can see the top
 * Place the red and back wires in the breadboard in *different* rows
-    * If you are unsure about where to place the wires, make sure to ask on of the mentors. Plugging in the battery pack to the wrong location can damage your robot. Make sure this is absolutely correct.
+    * If you are unsure about where to place the wires, make sure to ask one of the mentors. Plugging in the battery pack to the wrong location can damage your robot. Make sure this is absolutely correct.
 ![AttachToBreadboard]({{site.baseurl}}/assets/mazerunner/batterypack_breadboard.jpg)
 
 * Locate a pin to pin wire in your kit.
