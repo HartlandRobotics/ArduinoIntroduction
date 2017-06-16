@@ -18,7 +18,7 @@ In this exercise we will find out how far an object is from our robot.
 
 <script src="https://gist.github.com/dennisburton/deed78efa25be174b7359f227bdb4950.js"></script>
 
-* In the wallfinder setup method set the pin mode for the trigger and echo pins
+* In the wallfinder setup method, set the pin mode for the trigger and echo pins
 
 <script src="https://gist.github.com/dennisburton/e7f66c80466bba827b80d74f7ed5d0d2.js"></script>
 
@@ -31,7 +31,7 @@ In this exercise we will find out how far an object is from our robot.
 * Connect the echo pin on the distance sensor to pin specified in your code
 * Connect the trigger pin on the distance sensor to the pin specified in your code
 * Connect the Ground pin on the distance sensor to a GND pin on the Arduino
-* Connect the VCC (power) pin on the distance sensor to either the 5V pin on the Arduino or the voltage row on your breadboard
+* Connect the VCC (power) pin on the distance sensor to the 5V pin on the Arduino.
 
 #### Testing
 

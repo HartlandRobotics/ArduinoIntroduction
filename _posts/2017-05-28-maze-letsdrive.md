@@ -51,7 +51,7 @@ Make sure you are prepared to keep your robot from falling off of the table.
 
 #### Less Boring, Please
 
-Ok, so driving forward and back is not all that interesting. But, we had to get the simple things working before we could do more interesting things. Now we will at a method to turn the robot.
+Ok, so driving forward and back is not all that interesting. But, we had to get the simple things working before we could do more interesting things. Now we will add a method to turn the robot.
 
 * Add a method in the chassis tab called driveTurnRight
 * In this method, we will need to make the left wheel go forward and the right wheel back

@@ -33,8 +33,7 @@ We now have a chassis that can drive around a maze. But, it needs some guidance.
 
 #### Controlling the Servo with code
 
-
-##### Create a tab for the chassis
+##### Create a tab for the wall finder
 
 0. Press the Sketch Action menu button. This is the down arrow located
 in the upper right corner of the arduino IDE.
