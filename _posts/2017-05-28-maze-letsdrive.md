@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Part 6: Let's Drive!"
-class: getting-started
+class: maze-runner
 category: maze
 date: 2016-06-19
 order: 5

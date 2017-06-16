@@ -17,8 +17,8 @@ sections: [
     ['ref', 'Reference'],
     ['start', 'Getting Started'],
     ['maze', 'Maze Runner'],
-    ['tut', 'Tutorial'],
-    ['line', 'Line Follower']
+    #['tut', 'Tutorial'],
+    #['line', 'Line Follower']
     #['tut', 'Tutorial'],
     #['ref', 'Reference'],
     #['dev', 'Developers'],

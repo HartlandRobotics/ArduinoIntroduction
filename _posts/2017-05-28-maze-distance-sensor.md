@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Part N: Working With Distance Sensor"
-class: getting-started
+class: maze-runner
 category: maze
 date: 2016-06-19
 order: 10
