@@ -16,7 +16,7 @@ Next we will add our first drive servo. This will be the servo that powers the l
 * Attach one of your servos on the side to your right.
     * Make sure that the access holes for zip ties are still open
     * Make sure the servo wires are facing the rear of the robot
-    * Make sure the mouting brackets on the servo are lined up with the outside of the chassis
+    * Make sure the mounting brackets on the servo are lined up with the outside of the chassis
 
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_chassis.jpg)
 
