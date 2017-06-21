@@ -26,14 +26,15 @@ Something that will be really important in this step is to make sure that your l
 
 > If you are familiar enough with C, you should use an enum instead of a bunch of integers.
 
-<script src="https://gist.github.com/dennisburton/577409e129e4d024e52dd379a277cf00"></script>
+<script src="https://gist.github.com/dennisburton/577409e129e4d024e52dd379a277cf00.js"></script>
 
 * Add code to handle each of the states 
 * Check for what your current state is
 * Make sure to only execute that state and return as soon as complete
 * Add some debug output using the Serial.print or Serial.println functions. This will help a lot when it comes time to debug your code.
 
-<script src="https://gist.github.com/dennisburton/70436a05680fe850eaa4469e3dd49cba"></script>
+
+<script src="https://gist.github.com/dennisburton/70436a05680fe850eaa4469e3dd49cba.js"></script>
 
 
 
