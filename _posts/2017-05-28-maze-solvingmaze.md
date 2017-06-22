@@ -24,7 +24,7 @@ Something that will be really important in this step is to make sure that your l
 * Clear out the loop function.
 * Before the loop function add the states shown as well as a variable to track them.
 
-> If you are familiar enough with C, you should use an enum instead of a bunch of integers.
+    > If you are familiar enough with C, you should use an enum instead of a bunch of integers. You may also use a switch statement instead of many if statements. (Make sure to use break statements.)
 
 <script src="https://gist.github.com/dennisburton/577409e129e4d024e52dd379a277cf00.js"></script>
 
@@ -49,4 +49,15 @@ While the robot is driving forward, its primary goal is to keep from hitting a w
 
 <script src="https://gist.github.com/dennisburton/21f457b9a770646f9089fbbf050a40be.js"></script>
 
+#### Update the Look for Next Path State
 
+At this point, your robot should be stopped with a wall in front. You want to "look" around you too see where the best path is. 
+
+* Find out the distance to a wall on the left
+* Find out the distance to a wall on the right
+* See which one is larger
+* Set the next state to turnLeft or turnRight base on the result
+
+    > Another one for the experience programmers in the class. You can use the ternary ( ? : ) operator for the state assignment at the end of this code block
+
+<script src="https://gist.github.com/dennisburton/dd36ac30cfc219fca00be2483831ecc5.js"></script>
