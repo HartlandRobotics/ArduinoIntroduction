@@ -23,7 +23,6 @@ Something that will be really important in this step is to make sure that your l
 * Open the maze runner tab
 * Clear out the loop function.
 * Before the loop function add the states shown as well as a variable to track them.
-
     > If you are familiar enough with C, you should use an enum instead of a bunch of integers. You may also use a switch statement instead of many if statements. (Make sure to use break statements.)
 
 <script src="https://gist.github.com/dennisburton/577409e129e4d024e52dd379a277cf00.js"></script>
