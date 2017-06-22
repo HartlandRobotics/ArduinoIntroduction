@@ -36,7 +36,17 @@ Something that will be really important in this step is to make sure that your l
 
 <script src="https://gist.github.com/dennisburton/70436a05680fe850eaa4469e3dd49cba.js"></script>
 
+#### Update the Drive Forward State
+
+While the robot is driving forward, its primary goal is to keep from hitting a wall. We will use the distance method to find out how far away the wall is. When we are too close, it is time to stop and go to the next state.
+
+* Make sure the chassis is driving forward
+* Find out how far away the next object is
+    > You may be thinking you want to center the rotator in this step. While you do want the rotator to be facing forward, you do not want to have the chassis driving forward during the delay specified in rotatorCenter. That is enough time for the robot to hit the wall.
+* If the object (wall) is less than 1 inch away, stop the chassis and set the next state to **lookForNextPath**
+* Make sure to call return to ensure that no further code in loop is executed this time around.
 
 
+<script src="https://gist.github.com/dennisburton/21f457b9a770646f9089fbbf050a40be.js"></script>
 
 
