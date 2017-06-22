@@ -7,6 +7,11 @@ date: 2016-06-19
 order: 9
 
 ---
+#### Adding some helper methods
+
+Add some functions at the bottom of wallfinder to help combine rotation and distance.
+
+<script src="https://gist.github.com/dennisburton/f54abc0d1dec65b0363668a0b7eb4cd7.js"></script>
 
 This is where all of the parts come together. In this section, you make the chassis work with the front servo and distance servo to solve a problem. 
 
