@@ -57,6 +57,17 @@ At this point, your robot should be stopped with a wall in front. You want to "l
 * Find out the distance to a wall on the right
 * See which one is larger
 * Set the next state to turnLeft or turnRight base on the result
-    > Another one for the experience programmers in the class. You can use the ternary ( ? : ) operator for the state assignment at the end of this code block
+    > Another one for the experienced programmers in the class. You can use the ternary ( ? : ) operator for the state assignment at the end of this code block
 
 <script src="https://gist.github.com/dennisburton/dd36ac30cfc219fca00be2483831ecc5.js"></script>
+
+#### Update the Turning States
+
+* Turn the chassis
+* Return the rotator to the center position
+* Set the current state to drive forward again
+
+
+<script src="https://gist.github.com/dennisburton/24671a656cdf467263b6f296b0765f0e.js"></script>
+
+
