@@ -273,4 +273,12 @@ p {
 
 }
 
+blockquote{
+    font-size: 14px;
+}
+
+blockquote p {
+    margin-top: 0;
+}
+
 
