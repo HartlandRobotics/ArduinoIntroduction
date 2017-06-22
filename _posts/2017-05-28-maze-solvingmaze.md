@@ -105,4 +105,4 @@ Some mazes may end by being completely surrounded. In this case we would like ou
 
 ### Testing
 
-Once you have fully tested at your station, you can do some testing on the actual maze. Keep in mind that a lot of student will be in line to test. Be sure to practice Reason, Respect, and Responsibility!
+Once you have fully tested at your station, you can do some testing on the actual maze. Keep in mind that a lot of students will be in line to test. Be sure to practice Reason, Respect, and Responsibility!
