@@ -49,6 +49,13 @@ While the robot is driving forward, its primary goal is to keep from hitting a w
 
 <script src="https://gist.github.com/dennisburton/21f457b9a770646f9089fbbf050a40be.js"></script>
 
+#### Test
+
+Deploy to your robot.
+Open the Serial Monitor.
+Make sure your robot drives forward until an object is close in front of it.
+Make sure it transitions to the next path state
+
 #### Update the Look for Next Path State
 
 At this point, your robot should be stopped with a wall in front. You want to "look" around you too see where the best path is. 
@@ -61,6 +68,14 @@ At this point, your robot should be stopped with a wall in front. You want to "l
 
 <script src="https://gist.github.com/dennisburton/dd36ac30cfc219fca00be2483831ecc5.js"></script>
 
+#### Test
+
+Deploy to your robot.
+Open the Serial Monitor.
+Make sure your robot drives forward until an object is close in front of it.
+Make sure it is able to locate a wall on both sides ( yes, this means you will need to run this test more than once )
+Make sure it transitions to a turning state
+
 #### Update the Turning States
 
 * Turn the chassis
@@ -70,4 +85,25 @@ At this point, your robot should be stopped with a wall in front. You want to "l
 
 <script src="https://gist.github.com/dennisburton/24671a656cdf467263b6f296b0765f0e.js"></script>
 
+#### Test
 
+Deploy your robot.
+You get the idea now right? Make sure all of the other stuff is still happening correctly and that your robot turns.
+Make sure that it returns to the driveForward state
+
+#### Revisting Next Path State for End of Maze
+
+Some mazes may end by being completely surrounded. In this case we would like our robot to simply stop. **Note: there are two code blocks for this step**
+
+* Add a check in the lookForNextPath state for both the left and right walls being very close
+* When we find both wall present, update the next state to mazeComplete
+* Add a mazeComplete state to stop the robot.
+
+<script src="https://gist.github.com/dennisburton/1ac08400bc2f35bc3d1f65aa5278d87a.js"></script>
+
+<script src="https://gist.github.com/dennisburton/dfabcf5fc88d6b0923b9ed197759fba6.js"></script>
+
+
+### Testing
+
+Once you have fully tested at your station, you can do some testing on the actual maze. Keep in mind that a lot of student will be in line to test. Be sure to practice Reason, Respect, and Responsibility!
