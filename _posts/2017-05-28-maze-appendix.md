@@ -2,7 +2,7 @@
 layout: page
 title: "Appendix"
 class: maze-runner
-category: donotshow
+category: maze
 date: 2016-06-19
 order: 10
 
