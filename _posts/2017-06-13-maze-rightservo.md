@@ -19,11 +19,9 @@ Attach the right servo similarly to the way you attached the left servo. *Be ver
 * Route the servo wire through the access hole in the chassis
 ![RightServoAttach]({{site.baseurl}}/assets/mazerunner/rightservo_attach.jpg)
 
-* Attach the servo wire to three *unused* rows in the breadboard with a set of 3 header pins
+* Attach the servo wires to the pins labeled right on the circuit board
+    * The black wire should be closest to the back of the robot or hartland robotics printing
 ![RightServoWires]({{site.baseurl}}/assets/mazerunner/rightservo_wires.jpg)
-* Add a jumper wire from the ground and power from the battery pack to the servo
-* Attach a jumper wire from the signal wire of the servo to pin 10 on the Arduino
-
 
 #### Driving the Right Servo
 
