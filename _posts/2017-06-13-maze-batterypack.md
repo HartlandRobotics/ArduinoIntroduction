@@ -18,9 +18,9 @@ Take a look at your battery pack.
 
 * Turn over your robot so that you can see the bottom side of the chassis
 * Close the pack back up and attach it to the chassis. 
-    * Make sure that the on off switch is not not facing the robot. You will need to be able to turn the robot on and off.
-    * Make sure the wires are facing the rear of the robot when you attach them.
+    * Make sure the wires are facing the front of the robot when you attach them.
     * Make sure you do not cover any of the access holes in the chassis
+    * The pack should be as close to the back of the robot as possible
 
 ![AttachToChassis]({{site.baseurl}}/assets/mazerunner/batterypack_chassis.jpg)
 
