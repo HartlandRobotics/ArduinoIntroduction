@@ -25,7 +25,7 @@ Next we will add our first drive servo. This will be the servo that powers the l
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_chassis.jpg)
 
 * Use one of your large zip ties to secure the servo to the chassis.
-    * This zip ties will route through the access hole in front of the servo and the notch behind it
+    * This zip ties will route through the access holes on both sides of the servo
     * Ask for assistance if you need help tightening this zip tie without causing damage
     * You may also trim off the excess zip tie with side cutters
 
