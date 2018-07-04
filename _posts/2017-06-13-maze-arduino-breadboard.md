@@ -20,8 +20,8 @@ Set the chassis in front of you so that it looks like this:
 #### Attach the Arduino
 
 * Locate the Arduino in your kit.
-* Turn the Arduino so that the power and USB ports are facing the rear of the robot.
-* Attach the Arduino to the chassis making sure not to cover up any of the holes that will be used later.
+* Turn the Arduino so that the power and USB ports are facing the right of the robot.
+* Attach the Arduino to the rear of the chassis making sure to leave room for the 9V battery we will be using later
 
 ![AttachArduino]({{site.baseurl}}/assets/mazerunner/attach_arduino.jpg)
 
