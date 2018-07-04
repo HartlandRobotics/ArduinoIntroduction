@@ -28,10 +28,12 @@ In this exercise we will find out how far an object is from our robot.
 
 #### Wiring the Distance Sensor
 
-* Connect the echo pin on the distance sensor to pin specified in your code
-* Connect the trigger pin on the distance sensor to the pin specified in your code
-* Connect the Ground pin on the distance sensor to a GND pin on the Arduino
-* Connect the VCC (power) pin on the distance sensor to the 5V pin on the Arduino.
+* Connect the echo pin on the distance sensor to the echo pin on the circuit board
+* Connect the trigger pin on the distance sensor to the pin labeled trig on the circuit board
+* Connect the Ground pin on the distance sensor to the GND pin on the sensor pins on the circuit board
+* Connect the VCC (power) pin on the distance sensor to the VCC pin on the sensor pins on the circuit board.
+
+![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/distance_wiring.jpg)
 
 #### Testing
 
