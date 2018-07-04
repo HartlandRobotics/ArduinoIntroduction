@@ -27,10 +27,14 @@ Set the chassis in front of you so that it looks like this:
 
 ![AttachArduino]({{site.baseurl}}/assets/mazerunner/attach_arduino.jpg)
 
-#### Attach the Breadboard
+#### Attach the Circuit Board
 
-* Locate the breadboard in your kit.
-* Attach it next to the Arduino making sure not to cover up any of the holes in the chassis.
+* Locate the circuit board in your kit.
+* **Be careful inserting the circuit board so you do not bend any pins!**
+* Attach it to the Arduino making sure that the pins line up correctly.
+    * Note that one side of the circuit board has numbers (8, 9, 10, etc.)
+    * These should line up with the exact same number on the arduino.
+    * Similarly, the labels on the other side of the circuit board should match the arduino.
 
-![AttachBreadboard]({{site.baseurl}}/assets/mazerunner/attach_breadboard.jpg)
+![AttachBreadboard]({{site.baseurl}}/assets/mazerunner/attach_circuitboard.jpg)
     
