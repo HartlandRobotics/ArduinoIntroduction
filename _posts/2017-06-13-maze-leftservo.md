@@ -31,13 +31,13 @@ Next we will add our first drive servo. This will be the servo that powers the l
 
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_ziptie.jpg)
 
-* Route the servo wire through one of the large access holes.
+* Route the servo wire up between the servo and the battery pack and then through one of the large access holes.
 
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_routewires.jpg)
 
 * Turn over the robot so that you can see the top of the chassis
 * Attach the servo wires to the circuit board on the pins labeled left
-    * Make sure the ground wire (black) is closer to the back of the robot or the hartland
+    * Make sure the black wire is closer to the hartland
      robotics printing on the circuit board.
 
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_attachwires.jpg)
