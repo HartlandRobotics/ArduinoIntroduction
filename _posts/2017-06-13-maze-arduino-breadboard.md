@@ -12,7 +12,6 @@ order: 0
 The first step in building your robot is to understand the orientation of the chassis.
 
 * The edge of the chassis that is tapered is the front of the robot.
-* The edge of the chassis that has less holes is the rear of the robot.
 
 Set the chassis in front of you so that it looks like this:
 
