@@ -21,15 +21,10 @@ We now have a chassis that can drive around a maze. But, it needs some guidance.
 
 ![FrontServoAttach]({{site.baseurl}}/assets/mazerunner/frontservo_attach.jpg)
 
-* Locate a set of 3 header pins in your kit
-* Insert one end of the header pins into the servo wire
-* Attach the servo wire to the breadboard in a location where there are 3 *unused* rows
+* Attach the servo wire to the circuit board on the pins labeled front
+    * the brown wire should be closest to the back of the robot or the hartland robotics printing
 
-![FrontServoBreadboard]({{site.baseurl}}/assets/mazerunner/frontservo_breadboard.jpg)
-
-* Connect the row with the brown wire to the row with the ground connections
-* Connect the row with the red wire to the row with the power connections
-* Connect the row with the orange wire to pin 6 on the Arduino
+![FrontServoBreadboard]({{site.baseurl}}/assets/mazerunner/frontservo_circuitboard.jpg)
 
 #### Controlling the Servo with code
 
