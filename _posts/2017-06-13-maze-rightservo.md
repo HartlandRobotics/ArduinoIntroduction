@@ -21,6 +21,7 @@ Attach the right servo similarly to the way you attached the left servo. *Be ver
 
 * Attach the servo wires to the pins labeled right on the circuit board
     * The black wire should be closest to the back of the robot or hartland robotics printing
+    
 ![RightServoWires]({{site.baseurl}}/assets/mazerunner/rightservo_wires.jpg)
 
 #### Driving the Right Servo
