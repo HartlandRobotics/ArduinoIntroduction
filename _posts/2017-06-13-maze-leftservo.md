@@ -12,7 +12,7 @@ order: 2
 Next we will add our first drive servo. This will be the servo that powers the left wheel of the robot.
 
 * Turn over the robot so that you can see the bottom of the chassis
-    * Be careful not to crush the wires you attached from the battery pack to the breadboard while doing this
+    * Be careful not to crush the wires you attached from the battery pack to the circuit board while doing this
 * Attach one of your servos on the side to your right.
     * Make sure that the access holes for zip ties are still open
     * Make sure the servo wires are facing the rear of the robot
@@ -32,19 +32,8 @@ Next we will add our first drive servo. This will be the servo that powers the l
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_routewires.jpg)
 
 * Turn over the robot so that you can see the top of the chassis
-* Place one of the 3 wire header pins in the breadboard making sure it is not in the same row as your battery pack
-
-
-![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_headerpins.jpg)
-
-* Attach the servo wire to to the header pins
+* Attach the servo wires to the circuit board on the pins labeled left
+    * Make sure the ground wire (black) is closer to the back of the robot or the hartland
+     robotics printing on the circuit board.
 
 ![LeftServoChassis]({{site.baseurl}}/assets/mazerunner/leftservo_attachwires.jpg)
-
-* Locate 3 pin to pin wires in your kit
-* Attach one wire in the same row as the black wire from the servo
-* Place the other side of this wire in the same row as the black wire from the battery pack
-* Attach one wire in the same row as the red wire from the servo
-* Place the other side of this wire in the same row as the red wire from the battery pack
-* Attach one wire in the same row as the white wire from the servo
-* Place the other side of this wire in pin 9 on the arduino
