@@ -13,8 +13,8 @@ In this exercise we will find out how far an object is from our robot.
 #### Add Code for Distance Sensor
 
 * Observe the pins on the distance sensor. Note the pins labeled Trig and Echo
-* In the wallfinder tab, create a variable to hold the trigger pin location. Set this to 4
-* Declare a variable to hold the echoPin location. Set this to 5.
+* In the wallfinder tab, create a variable to hold the trigger pin location. Set this to 8
+* Declare a variable to hold the echoPin location. Set this to 12.
 
 <script src="https://gist.github.com/dennisburton/deed78efa25be174b7359f227bdb4950.js"></script>
 
