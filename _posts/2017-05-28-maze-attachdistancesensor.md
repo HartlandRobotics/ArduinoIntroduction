@@ -10,16 +10,16 @@ order: 7
 
 #### Attach Distance Sensor Bracket
 
-* Locate the bracket in your kit
-* Attach the bracket as pictured to the front servo. Be cautious not to change the position of the servo.
-
-![DistanceSensorBracket]({{site.baseurl}}/assets/mazerunner/distance_bracket.jpg)
-
 * Insert the distance sensor into the bracket
 * Add zip ties to the distance sensor as shown, do not tighen the zip tie too much
     * Do not be afraid to ask for assistance, this part is a bit tricky
 
 ![DistanceSensorAttached]({{site.baseurl}}/assets/mazerunner/distance_sensorattached.jpg)
+
+* Locate the bracket in your kit
+* Attach the bracket as pictured to the front servo. Be cautious not to change the position of the servo.
+
+![DistanceSensorBracket]({{site.baseurl}}/assets/mazerunner/distance_bracket.jpg)
 
 
 #### Add Code to rotate sensor

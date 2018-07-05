@@ -58,4 +58,6 @@ Now that the chassis code file is in place, we need to update the mazerunner tab
 Compile and upload your current sketch to the Arduino to make sure it is working correctly. You may want to attach one of the servo horns from the small bag that came with your servo so you can see the direction it is spinning better.
 **Remember to turn on your battery pack**
 
+* note, you will need to keep the arduino plugged into the computer or get a 9V battery to plug into the arduino when running the robot
+
 

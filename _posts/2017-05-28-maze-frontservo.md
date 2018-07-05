@@ -17,7 +17,7 @@ We now have a chassis that can drive around a maze. But, it needs some guidance.
 
 ![FrontServoNotch]({{site.baseurl}}/assets/mazerunner/frontservo_chassis.jpg)
 
-* Insert the servo into the chassis
+* Insert the servo and zip tie it to the chassis
 
 ![FrontServoAttach]({{site.baseurl}}/assets/mazerunner/frontservo_attach.jpg)
 
