@@ -15,8 +15,10 @@ We are going to give you a lot less information and pictures for the right side.
 
 Attach the right servo similarly to the way you attached the left servo. *Be very careful not to damage the wires on the top side of the robot*
 * Make sure the servo wires are at the rear of the robot
+* Make sure the double sided tape is lined up with the access holes
 * Zip tie the servo to the chassis
 * Route the servo wire through the access hole in the chassis
+
 ![RightServoAttach]({{site.baseurl}}/assets/mazerunner/rightservo_attach.jpg)
 
 * Attach the servo wires to the pins labeled right on the circuit board
