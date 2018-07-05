@@ -16,6 +16,8 @@ order: 7
 ![DistanceSensorBracket]({{site.baseurl}}/assets/mazerunner/distance_bracket.jpg)
 
 * Insert the distance sensor into the bracket
+* Add zip ties to the distance sensor as shown, do not tighen the zip tie too much
+    * Do not be afraid to ask for assistance, this part is a bit tricky
 
 ![DistanceSensorAttached]({{site.baseurl}}/assets/mazerunner/distance_sensorattached.jpg)
 

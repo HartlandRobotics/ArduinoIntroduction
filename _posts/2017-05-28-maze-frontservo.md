@@ -22,7 +22,7 @@ We now have a chassis that can drive around a maze. But, it needs some guidance.
 ![FrontServoAttach]({{site.baseurl}}/assets/mazerunner/frontservo_attach.jpg)
 
 * Attach the servo wire to the circuit board on the pins labeled front
-    * the brown wire should be closest to the back of the robot or the hartland robotics printing
+    * the brown wire should be closest to the hartland robotics printing
 
 ![FrontServoBreadboard]({{site.baseurl}}/assets/mazerunner/frontservo_circuitboard.jpg)
 
