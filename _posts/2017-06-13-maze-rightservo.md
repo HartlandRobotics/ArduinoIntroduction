@@ -31,7 +31,7 @@ Attach the right servo similarly to the way you attached the left servo. *Be ver
 If you take a look at the chassis tab in the Arduino IDE, you will see many items named with "left". You will need a "right" version of each of these lines
 
 * You will need to declare a rightWheel
-* You will need to assign the rightWheelPin to the correct pin number
+* You will need to assign the rightWheelPin to 11
 * You will need to assign values to Forward and Back. Be sure to test this. You may find that since the servos are attached with opposite orientation, the values will need to change
 * Setup will need to set up both wheels
 * Each of the drive methods will need to drive both wheels
